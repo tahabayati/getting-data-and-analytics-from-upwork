@@ -1,0 +1,520 @@
+Skill,Freelancer Count,Employer Count,Total
+Node.js,17,84,101
+React,17,50,67
+JavaScript,0,47,47
+TypeScript,12,31,43
+MongoDB,9,31,40
+Next.js,17,22,39
+API,6,28,34
+Web Application,17,11,28
+Web Development,16,10,26
+API Integration,11,13,24
+NestJS,6,18,24
+ExpressJS,9,14,23
+CSS,16,7,23
+Amazon Web Services,9,12,21
+HTML5,18,2,20
+HTML,14,5,19
+Git,13,5,18
+CSS 3,18,0,18
+API Development,9,9,18
+RESTful API,6,11,17
+PostgreSQL,7,9,16
+Tailwind CSS,8,7,15
+Bootstrap,15,0,15
+Ecommerce Website,15,0,15
+SQL,12,3,15
+Responsive Design,14,0,14
+Website Redesign,14,0,14
+WordPress,13,1,14
+MySQL,10,3,13
+AWS Lambda,3,10,13
+Web Design,11,1,12
+SaaS,11,1,12
+Firebase,2,10,12
+Python,8,4,12
+PHP,9,3,12
+jQuery,11,0,11
+React Native,5,6,11
+Vue.js,10,0,10
+Website,10,0,10
+Landing Page,10,0,10
+JSON,10,0,10
+Website Optimization,9,0,9
+GitHub,8,1,9
+Full-Stack Development,7,2,9
+Docker,7,2,9
+Business with 1-9 Employees,9,0,9
+Redux,5,4,9
+Sass,9,0,9
+Angular,4,5,9
+Google Analytics,8,1,9
+webpack,8,0,8
+SCSS,8,0,8
+Adobe Photoshop,8,0,8
+Laravel,7,1,8
+AJAX,8,0,8
+GPT-4,7,1,8
+Apache HTTP Server,8,0,8
+Database Development,8,0,8
+AI Development,7,1,8
+Vercel,5,3,8
+React Bootstrap,7,1,8
+AI App Development,5,2,7
+Business with 10-99 Employees,7,0,7
+Software Debugging,7,0,7
+Nuxt.js,7,0,7
+npm,7,0,7
+AI Agent Development,4,3,7
+NGINX,6,1,7
+Business with 100-999 Employees,7,0,7
+Figma,7,0,7
+Business with 1000+ Employees,7,0,7
+SQLite,7,0,7
+Front-End Development,7,0,7
+CodeIgniter,6,0,6
+WordPress Plugin,6,0,6
+GraphQL,4,2,6
+Material UI,5,1,6
+WordPress Development,6,0,6
+Agile Software Development,6,0,6
+AngularJS,4,2,6
+Blog,6,0,6
+DevOps,4,2,6
+Amazon DynamoDB,4,2,6
+ECMAScript,5,0,5
+HTTP,5,0,5
+Template Markup,5,0,5
+WooCommerce,5,0,5
+Custom PHP,5,0,5
+GitLab,5,0,5
+UX & UI,5,0,5
+AWS Amplify,4,1,5
+Google Cloud Platform,4,1,5
+Bitbucket,5,0,5
+ChatGPT,5,0,5
+ASP.NET,3,2,5
+Software Architecture & Design,1,4,5
+Twilio API,4,1,5
+ChatGPT API Integration,5,0,5
+App Development,4,1,5
+Database Architecture,4,1,5
+Desktop Application,5,0,5
+PSD to HTML,5,0,5
+Browser Extension,5,0,5
+.NET Framework,4,1,5
+XHTML,5,0,5
+GPT-4 API,4,0,4
+Website Security,4,0,4
+Amazon EC2,3,1,4
+Firebase Cloud Firestore,4,0,4
+Django,4,0,4
+AI-Generated Code,4,0,4
+Content Management System,4,0,4
+Page Speed Optimization,4,0,4
+Payment Gateway Integration,4,0,4
+Shopify,4,0,4
+Database Management,4,0,4
+OpenAI API,2,2,4
+Chatbot,4,0,4
+Animation,4,0,4
+Apache Tomcat,4,0,4
+Gatsby.js,4,0,4
+C#,3,1,4
+Website Customization,4,0,4
+4,1,2,3
+2.0,0,3,3
+Stripe API,3,0,3
+Netlify,3,0,3
+Flexbox,3,0,3
+Redis,2,1,3
+Prototyping,3,0,3
+Stripe,3,0,3
+REST API,1,2,3
+Azure DevOps,2,1,3
+MySQL Programming,2,1,3
+Semantic UI,3,0,3
+Ruby on Rails,3,0,3
+UI Animation,3,0,3
+XD to HTML,3,0,3
+Java,2,1,3
+styled-components,3,0,3
+GeoAPI,3,0,3
+Three.js,3,0,3
+RESTful Architecture,3,0,3
+AI Bot,3,0,3
+Backbone.js,3,0,3
+CSS Grid,3,0,3
+Golang,1,2,3
+Custom Web Design,3,0,3
+XML,3,0,3
+Webflow,3,0,3
+WebRocketX,3,0,3
+Kubernetes,2,1,3
+TensorFlow,2,1,3
+Twitter/X Bootstrap,3,0,3
+Flask,3,0,3
+Microsoft SQL Server,2,1,3
+Shopify Templates,3,0,3
+ClickFunnels,3,0,3
+Startup Company,3,0,3
+MERN Stack,3,0,3
+Google Chrome Extension,3,0,3
+GPT-3,3,0,3
+Theme Customization,2,0,2
+3.0,0,2,2
+42,2,0,2
+Flutter,1,1,2
+50,2,0,2
+Amazon Aurora,2,0,2
+Ruby,2,0,2
+Search Engine Optimization,2,0,2
+PayPal,2,0,2
+ASP.NET Web API,2,0,2
+Visualization,2,0,2
+Figma to Webflow Plugin,2,0,2
+CRM Software,2,0,2
+Sales Funnel,2,0,2
+Docker Compose,1,1,2
+Google,2,0,2
+CreateJS,2,0,2
+LiteSpeed Web Server,2,0,2
+Android,0,2,2
+Redux Thunk,2,0,2
+Mobile App Development,2,0,2
+User Authentication,1,1,2
+Landing Page Optimization,2,0,2
+Artificial Intelligence,1,1,2
+Redux Form,2,0,2
+Fortune 500 Company,2,0,2
+Amazon S3,1,1,2
+Entity Framework,2,0,2
+Software Consultation,2,0,2
+Transact-SQL,2,0,2
+User Experience,2,0,2
+CRM Automation,2,0,2
+Database Design,2,0,2
+Back-End Development,0,2,2
+ASP.NET Core,2,0,2
+Google APIs,2,0,2
+Geocoding,2,0,2
+MariaDB,2,0,2
+CRM Development,2,0,2
+SaaS Development,2,0,2
+Zapier,2,0,2
+Firebase Realtime Database,2,0,2
+Facebook Graph API,2,0,2
+Google Maps API,2,0,2
+AWS CloudFront,1,1,2
+Python-Requests,2,0,2
+Automation,2,0,2
+Interaction Design,2,0,2
+Chatbot Development,2,0,2
+Supabase,0,2,2
+XQuery,2,0,2
+Elixir,1,1,2
+Azure Cosmos DB,1,1,2
+Database,1,1,2
+iOS,1,1,2
+Microsoft Azure,2,0,2
+Shopify Development,2,0,2
+ASP.NET MVC,2,0,2
+AI Model Integration,2,0,2
+Blockchain,1,1,2
+SEO Setup & Configuration,2,0,2
+Amazon API Gateway,1,1,2
+Microsoft IIS,2,0,2
+Web & Mobile Design Consultation,2,0,2
+Spring Data MongoDB,1,1,2
+OpenAI Codex,2,0,2
+WordPress Malware Removal,2,0,2
+1.0,0,1,1
+Oracle NoSQL Database,1,0,1
+Handlebars,1,0,1
+Elearning LMS Consulting,1,0,1
+7,1,0,1
+6.0,0,1,1
+8.0,0,1,1
+GIS,1,0,1
+Web Application Framework,1,0,1
+Fabric.js,1,0,1
+20.0,0,1,1
+Image Editing,1,0,1
+Redux Saga,1,0,1
+FastAPI,0,1,1
+Tag Manager Setup,1,0,1
+30,1,0,1
+32,1,0,1
+jQuery UI,1,0,1
+35,1,0,1
+Software Development,1,0,1
+Video Editing,1,0,1
+Library Management Software,1,0,1
+Umbraco,0,1,1
+45,1,0,1
+Shopify Apps,1,0,1
+46,1,0,1
+Google Web Toolkit,1,0,1
+53,1,0,1
+CI/CD Platform,0,1,1
+56,1,0,1
+Web Hosting,1,0,1
+60,1,0,1
+Jest,1,0,1
+Apache Spark,1,0,1
+OpenCart,1,0,1
+69,1,0,1
+Visual Basic,1,0,1
+Cypress,1,0,1
+Google Sites,1,0,1
+83,1,0,1
+Data Access Layer,1,0,1
+ChatGPT Prompt,1,0,1
+BEM,1,0,1
+User Interface Design,1,0,1
+Google AdSense,1,0,1
+94,1,0,1
+High Fidelity Design,1,0,1
+105,1,0,1
+Rust,1,0,1
+Claude,0,1,1
+RxJS,1,0,1
+Material Design,1,0,1
+Angular 2,0,1,1
+Mockup,1,0,1
+Bug Fix,1,0,1
+Wix,1,0,1
+Visual Communication,1,0,1
+GPT-4o,1,0,1
+Translation,1,0,1
+ChatGPT API,1,0,1
+WordPress Customization,1,0,1
+SEO Performance,1,0,1
+Progressive Web App,1,0,1
+Elasticsearch,1,0,1
+Map Plugin,1,0,1
+Web Analytics,1,0,1
+Software Maintenance,1,0,1
+WPLMS,1,0,1
+Twilio,1,0,1
+179,1,0,1
+Chatbot Integration,1,0,1
+Discord Bot Development,1,0,1
+192,1,0,1
+Skeleton,1,0,1
+ESLint,1,0,1
+WordPress Theme,1,0,1
+Elm,1,0,1
+Database Design Consultation,1,0,1
+User Experience Design,1,0,1
+Map Visualization,1,0,1
+Shopify Marketing,1,0,1
+Kajabi,1,0,1
+Digital Marketing,1,0,1
+PySpark,0,1,1
+WPML,1,0,1
+Joomla,1,0,1
+Page Mockup,1,0,1
+API Testing,1,0,1
+Website Prototyping,1,0,1
+Scala,1,0,1
+ETL,0,1,1
+Custom App,1,0,1
+Symfony,1,0,1
+OpenAI Codex Prompt,1,0,1
+Software Design,1,0,1
+Map Integration,1,0,1
+Templates,1,0,1
+LLM Prompt Engineering,1,0,1
+Google Merchant Center,1,0,1
+API Framework,1,0,1
+Java Collections Framework,1,0,1
+D3.js,1,0,1
+CoffeeScript,1,0,1
+Amazon RDS,1,0,1
+NestJS Development,1,0,1
+jQuery Mobile,1,0,1
+BootstrapVue,1,0,1
+Shopify Plus,1,0,1
+Ecommerce Marketing,1,0,1
+WordPress Consultation,1,0,1
+Theme Development,1,0,1
+.NET Compact Framework,1,0,1
+PSD to WordPress,1,0,1
+Marketing API Integration,1,0,1
+Web Component Design,1,0,1
+Infographic,1,0,1
+Optimization Modeling,1,0,1
+PayPal Development,1,0,1
+Ghostwriting,1,0,1
+WordPress Multisite,1,0,1
+GitHub Copilot,1,0,1
+Optimizepress,1,0,1
+Database Caching,1,0,1
+Google Ad Manager,1,0,1
+Azure OpenAI Service,0,1,1
+Websockets,0,1,1
+CMS Framework,1,0,1
+AI Chatbot,1,0,1
+GPT API,1,0,1
+Elearning Multimedia,1,0,1
+Web Application Security,1,0,1
+GeoJSON,1,0,1
+Lottie,1,0,1
+Plugin Customization,1,0,1
+Conversion Rate Optimization,1,0,1
+Apache Groovy,1,0,1
+Real Estate,1,0,1
+Database Integration,1,0,1
+Discord,1,0,1
+Shopify Theme,1,0,1
+HighLevel,1,0,1
+Wireframing,1,0,1
+Microsoft SharePoint,1,0,1
+Gravity Forms,1,0,1
+WordPress Installation,1,0,1
+IBM WebSphere,1,0,1
+Elearning Video,1,0,1
+Chat & Messaging Software,0,1,1
+Project Management,1,0,1
+Microsoft VBScript,1,0,1
+NodeJS Framework,1,0,1
+Ecommerce Backup & Migration,1,0,1
+Babel,1,0,1
+Scrapy,1,0,1
+Landing Page Design,1,0,1
+Software Testing,1,0,1
+WordPress Backup,1,0,1
+Ghost CMS,1,0,1
+Shopify Dropshipping,1,0,1
+Elearning,1,0,1
+OpenUI5,1,0,1
+Microservice,1,0,1
+WordPress Landing Page,1,0,1
+SQL Injection Mitigation,1,0,1
+PayPal Integration,1,0,1
+Vuetify,1,0,1
+OpenAPI,1,0,1
+Ecommerce Theme Installation,1,0,1
+Anime,1,0,1
+Cache Management,1,0,1
+Cross Browser & Device Compatibility,1,0,1
+Custom Content Management System,1,0,1
+ArcGIS,1,0,1
+Load Balancing,1,0,1
+Plugin Development,1,0,1
+FFmpeg,0,1,1
+Sales Management,1,0,1
+Shopify SEO,1,0,1
+Machine Learning,0,1,1
+Elearning Design,1,0,1
+WordPress e-Commerce,1,0,1
+Craft CMS,1,0,1
+Google Search Console,1,0,1
+Database Administration,1,0,1
+Django Stack,1,0,1
+Android App Development,1,0,1
+ETL Pipeline,0,1,1
+Shopify Website Redesign,1,0,1
+Social Media Marketing,1,0,1
+Presentations,1,0,1
+Tailwind UI,1,0,1
+LeSS Framework,1,0,1
+Cloudflare,1,0,1
+Sales Analytics,1,0,1
+Ecommerce Marketing Consultation,1,0,1
+Design Enhancement,1,0,1
+Elementor,1,0,1
+Apache Camel,1,0,1
+Ecommerce Functionality,1,0,1
+Hosting Setup,1,0,1
+pandas,1,0,1
+GPT-3.5,1,0,1
+AWS AppSync,0,1,1
+Landing Page Audit,1,0,1
+API Documentation,1,0,1
+Facebook Development,1,0,1
+Mobile UI Design,1,0,1
+Customer Relationship Management,1,0,1
+WordPress Bug Fix,1,0,1
+No-Code Landing Page,1,0,1
+Angular Material,1,0,1
+Apollo.io,1,0,1
+Project Management Software,1,0,1
+XD,1,0,1
+ADO.NET,1,0,1
+Adaptive Web Design,1,0,1
+LMS Plugin,1,0,1
+GoDaddy,1,0,1
+Make.com,1,0,1
+Wix SEO Wiz,1,0,1
+Ecommerce Platform,1,0,1
+Dart,1,0,1
+AWS Application,0,1,1
+Magento,1,0,1
+Electron,0,1,1
+Ecommerce Development Consultation,1,0,1
+Database Maintenance,1,0,1
+Kotlin,1,0,1
+Spring Boot,1,0,1
+Cypher,0,1,1
+Email Automation,1,0,1
+ASP,1,0,1
+3D Animation,1,0,1
+Ubuntu,1,0,1
+Marketing Campaign Setup & Implementation,1,0,1
+Mapbox,1,0,1
+AI Model Training Prompt,1,0,1
+Oracle Database,1,0,1
+Jade Pug,1,0,1
+HTML5 Boilerplate,1,0,1
+MockFlow,1,0,1
+Rancher,0,1,1
+LangChain,0,1,1
+Adobe XD,1,0,1
+gulp,1,0,1
+User Flow,1,0,1
+Requirements Specification,1,0,1
+Facebook JavaScript,1,0,1
+Web Development Consultation,1,0,1
+Conversion to HTML,1,0,1
+Serverless Computing,0,1,1
+Shopify Website Design,1,0,1
+Remix,1,0,1
+Plugin,1,0,1
+Ecommerce Order Fulfillment,1,0,1
+WordPress Migration,1,0,1
+Mongoose,1,0,1
+Stripe SDK,1,0,1
+QGIS,1,0,1
+AI Content Creation,1,0,1
+KeystoneJS,1,0,1
+Neo4j,0,1,1
+Ecommerce Performance Optimization,1,0,1
+Grafana,1,0,1
+CMS Development,1,0,1
+Motion Graphics,1,0,1
+Auth0,1,0,1
+SQL Programming,1,0,1
+Information Architecture,1,0,1
+GSAP,1,0,1
+Kendo UI,1,0,1
+Platform Plugin,1,0,1
+Java Media Framework,1,0,1
+Google Apps Script,1,0,1
+TalentLMS,1,0,1
+Materialize,1,0,1
+Usability Testing,1,0,1
+Spring Framework,1,0,1
+Journey Mapping,1,0,1
+Ecommerce Management Consultation,1,0,1
+Website Migration,1,0,1
+Ecommerce,1,0,1
+Amazon Cognito,1,0,1
+Content Marketing,1,0,1
+WildFly,1,0,1
+PyTorch,1,0,1
+Cloud Application,0,1,1
+Big Data,0,1,1
+Software Architecture,1,0,1
+Web Accessibility,1,0,1
