@@ -12,8 +12,15 @@ class UpworkDataProcessor:
         self.employer_skills = Counter()
         self.chart_title = chart_title
         self.filename = filename
+        self.result_dir = Path("Result")
+        self.output_dir = self.result_dir / filename
+        self._ensure_directories()
         plt.style.use('default')
         sns.set_theme()
+
+    def _ensure_directories(self):
+        self.result_dir.mkdir(exist_ok=True)
+        self.output_dir.mkdir(exist_ok=True)
 
     def process_directory(self, directory_path, is_freelancer=True):
         try:
@@ -64,7 +71,8 @@ class UpworkDataProcessor:
                      fontsize=14, fontweight='bold', pad=20)
             plt.tight_layout()
             
-            plt.savefig(f'{self.filename}.png', dpi=300, bbox_inches='tight',
+            output_path = self.output_dir / f'{self.filename}.png'
+            plt.savefig(output_path, dpi=300, bbox_inches='tight',
                        facecolor='white', edgecolor='none')
             plt.close()
         except Exception:
@@ -82,7 +90,8 @@ class UpworkDataProcessor:
             
             sorted_skills.sort(key=lambda x: x[3], reverse=True)
             
-            with open(f'{self.filename}.csv', 'w', newline='', encoding='utf-8') as file:
+            output_path = self.output_dir / f'{self.filename}.csv'
+            with open(output_path, 'w', newline='', encoding='utf-8') as file:
                 writer = csv.writer(file)
                 writer.writerow(['Skill', 'Freelancer Count', 'Employer Count', 'Total'])
                 for skill_data in sorted_skills:
