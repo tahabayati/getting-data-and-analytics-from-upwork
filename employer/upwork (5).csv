@@ -1,0 +1,1264 @@
+"text-light 2","air3-link","air3-link href","job-tile-info-list","job-tile-info-list 2","mr-1","job-tile-info-list 3","mb-0","highlight","highlight 2","highlight 3","highlight 4","highlight 5","highlight-color","air3-token","air3-token 2","air3-token 3","air3-token 4","highlight-color 2","air3-token 5","air3-token 6","air3-token 7","highlight 6","highlight 7"
+"9 minutes ago","Replit Software Engineer (Contract, NDA Required)","https://www.upwork.com/jobs/Replit-Software-Engineer-Contract-NDA-Required_~021917574866857270503/?referrer_url_path=/nx/search/jobs/","Hourly","Intermediate","Est. time:","Less than 1 month, Less than 30 hrs/week","About the Role
+We are hiring a highly skilled Replit Software Engineer to build secure, user-facing applications entirely within the Replit platform. This role demands hands-on software engineering skills with deep familiarity in using Replit’s -based IDE, frameworks, and deployment tools.
+
+The project is classified and will require the successful candidate to sign a Non-Disclosure Agreement (NDA) prior to onboarding. This is a code-driven position requiring end-to-end  development capabilities within the Replit ecosystem.
+
+Key Responsibilities
+
+Design and implement full-stack applications inside Replit using supported frameworks (e.g., HTML/CSS/JS, Flask, or Express).
+
+Write, test, and maintain clean, modular, and scalable code.
+
+Build responsive front-end interfaces and connect them to backend logic and APIs.
+
+Utilize Replit DB or equivalent for persistent data storage.
+
+Securely manage environment variables and API credentials via Replit’s Secrets Manager.
+
+Configure and manage deployments using Replit’s Static, Autoscale, or Reserved VM options.
+
+Debug, optimize, and monitor  performance using Replit’s built-in tools.
+
+Document  structure, configuration, and logic for internal use.
+
+Adhere to confidentiality and security protocols at all times.
+
+Required Qualifications
+
+Proven experience building complete applications inside Replit (portfolio or working demos required).
+
+Strong coding ability is required—this is not a no-code or drag-and-drop role.
+
+Proficiency in JavaScript (client-side), Python (Flask), or Node.js (Express).
+
+Solid understanding of front-end architecture, component structuring, and responsive design.
+
+Ability to work independently in a cloud-based IDE and meet development deadlines.
+
+Comfortable working within a secured and confidential project environment.
+
+Preferred Qualifications
+
+Familiarity with Replit-specific tools: Replit DB, Secrets Manager, Deployments, Preview, Console.
+
+Experience integrating third-party APIs (e.g., OpenAI, Stripe, Firebase).
+
+Understanding of user authentication, data security best practices, and RESTful architecture.
+
+Compensation
+Competitive hourly or fixed-project rates based on experience and scope. Terms to be finalized post-screening.
+
+ Process
+
+Submit resume and live examples of past Replit projects or public Repls.
+
+Complete a brief technical review of Replit proficiency.
+
+Sign NDA to begin onboarding and receive full project details.","web","application","application","application","Application","Web Application","Software Debugging","Full-Stack Development","AI App Development","Software Architecture & Design","","","","","",""
+"12 minutes ago","Build a Customizable SMS Marketing Platform (Integrated with Safaricom or Africa’s Talking)","https://www.upwork.com/jobs/Build-Customizable-SMS-Marketing-Platform-Integrated-with-Safaricom-Africa-Talking_~021917574166856215110/?referrer_url_path=/nx/search/jobs/","Hourly","Expert","Est. time:","1 to 3 months, Not sure","Job Description:
+
+We’re looking for an experienced  developer to build a simple, clean, and scalable SMS marketing platform that allows Kenyan businesses to send bulk SMS to their customers.
+
+This will be a -based dashboard (like a mini Mailchimp, but for SMS) that integrates with an SMS API (Africa’s Talking or Safaricom) and supports M-Pesa payment functionality.
+
+⸻
+
+Core Features:
+	1.	User Dashboard:
+	•	User registration & login
+	•	Upload phone numbers (CSV or manual entry)
+	•	Compose & send SMS to multiple recipients
+	•	View SMS balance and campaign history
+	2.	Admin Dashboard:
+	•	Manage users & SMS credit balances
+	•	See delivery reports
+	•	Manually add/remove SMS credits
+	•	Monitor system usage
+	3.	Integrations:
+	•	Safaricom Daraja API or Africa’s Talking API for SMS delivery
+	•	M-Pesa (Paybill or Till) integration for payments (via Daraja or gateway partner)
+	4.	Optional Features:
+	•	Campaign scheduling (send later)
+	•	Custom Sender ID (optional input)
+	•	Auto top-up logic for bulk buyers
+
+⸻
+
+Tech Stack (suggested, flexible):
+	•	Frontend: React / Vue / plain HTML-CSS-JS
+	•	Backend: Node.js / Django / PHP (your choice)
+	•	Database: Firebase / MySQL / MongoDB
+	•	API Integration: Africa’s Talking or Safaricom SMS + M-Pesa Daraja
+
+⸻
+
+Deliverables:
+	•	Full working  app hosted online (test and production version)
+	•	Admin + user dashboards
+	•	Fully working SMS sending logic
+	•	Payment workflow (users top up and get SMS credits)
+	•	Source code & setup documentation
+
+⸻
+
+Ideal Candidate:
+	•	Has experience with API integrations (especially SMS or payment)
+	•	Can communicate clearly and show progress
+	•	Has worked on bulk SMS, email marketing, or fintech tools
+	•	Bonus: experience with Safaricom APIs, M-Pesa, or local payment platforms
+
+To Apply, Please Include:
+	•	A short note on how you’d build this
+	•	Example of any similar tools you’ve built
+	•	Your estimated timeline & preferred tech sta","web","web","web","","","Web Application","API Integration","React","API","","Website Redesign","+2","","","",""
+"14 minutes ago","Copy Trading Software Development for Multiple Platforms","https://www.upwork.com/jobs/Copy-Trading-Software-Development-for-Multiple-Platforms_~021917573627597279402/?referrer_url_path=/nx/search/jobs/","Fixed price","Expert","Est. budget:","$1,500.00","We are seeking an experienced developer to create a copy trading software similar to TradersConnect. The software should support MT4, MT5, Match Trader, TradeLockers, and Ctrader, with robust API integration. The ideal candidate will have a strong background in trading platforms and API development to ensure seamless functionality and user experience. If you have a passion for trading technology and can deliver high-quality software, we would love to hear from you.","","","","","","Web Development","JavaScript","API","Data Entry","PHP","Desktop Application","+4","Content Writing","Python","",""
+"16 minutes ago","Looking for a Skilled Full Stack  Developer (Long-Term Opportunity)","https://www.upwork.com/jobs/Looking-for-Skilled-Full-Stack-span-class-highlight-Web-span-Developer-Long-Term-nbsp-Opportunity_~021917573100805554127/?referrer_url_path=/nx/search/jobs/","Fixed price","Intermediate","Est. budget:","$5.00","We're on the hunt for a reliable and talented Full Stack  Developer who can help us build, maintain, and scale  applications for a variety of clients and internal projects.
+
+This is NOT just a one-off job. We’re looking to build a long-term relationship with someone who is passionate, detail-oriented, and can bring creative solutions to the table.
+
+🚀 Your Responsibilities:
+
+    Develop and maintain front-end and back-end components of  applications.
+
+    Collaborate with our design and product teams to deliver pixel-perfect, responsive UIs.
+
+    Work with databases, APIs, and third-party services.
+
+    Optimize  for maximum speed and scalability.
+
+    Debug, test, and resolve technical issues.
+
+    Deliver clean, well-documented, and efficient code.
+
+📌 Ideal Tech Stack: (You don’t have to know them all, but familiarity with most is preferred)
+
+    Frontend: HTML5, CSS3, JavaScript, React.js / Vue.js / Next.js
+
+    Backend: Node.js / Express / PHP / Laravel / Django
+
+    Database: MongoDB, MySQL, PostgreSQL
+
+    Tools: Git, Docker, RESTful APIs, CI/CD pipelines
+
+✅ What We’re Looking For:
+
+    Proven experience in full stack development (portfolio/GitHub links required)
+
+    Strong understanding of best coding practices and security
+
+    Problem-solving mindset with the ability to work independently
+
+    Fluent communication skills and regular progress updates
+
+    Bonus if you have experience with CMSs (WordPress, Shopify), or devops knowledge","Web","web","web","application","","","JavaScript","Django","PHP","HTML5","","","Node.js","CSS 3","Web",""
+"32 minutes ago","Full Stack Developer","https://www.upwork.com/jobs/Full-Stack-Developer_~021917568922870658805/?referrer_url_path=/nx/search/jobs/","Fixed price","Expert","Est. budget:","$700.00","Job Description: We at IT Jobs Factory are seeking a highly skilled and reliable freelance Full Stack Developer to design and build a comprehensive e-learning platform.
+This platform will serve students and professionals by offering structured courses, live classes, assignments, assessments, progress tracking, mentorship sessions, and job assistance features. The ideal candidate should have strong experience in both front-end and back-end development, cloud deployment, LMS integrations, and a good understanding of user experience for educational platforms.
+
+Project Scope:
+1. Design and develop a responsive and scalable multi-user platform.
+2. User roles: Student, Mentor, Admin
+Features:
+- Course catalog with structured learning paths.
+- Video hosting integration (YouTube, Vimeo, or custom).
+- Live class scheduling and integrations (Zoom/Google Meet APIs)
+- Assessments, quizzes, and assignments module.
+- Certificate generation.
+- Doubt forums/discussion board.
+- Student dashboard with progress tracking
+- Mentor scheduling and 1:1 session booking
+- Payment gateway integration (Razorpay/Stripe)
+- Admin panel to manage content, users, payments, and analytics.
+- Job support area (resume upload, job board, etc.)
+Technical Requirements:
+
+Frontend:
+-React.js (preferred with Next.js)
+-Tailwind CSS or Bootstrap
+-HTML5, CSS3, JavaScript (ES6+)
+-Responsive, mobile-first design principles
+-Progressive  App (PWA) understanding is a bonus
+
+Backend:
+-Node.js with Express.js
+-RESTful APIs (GraphQL optional)
+-Authentication & Authorization (JWT, OAuth2, Role-based access)
+
+Database:
+-MongoDB (preferred) or PostgreSQL
+-Mongoose/Sequelize ORM
+
+Integrations:
+-Video platform APIs (e.g., Vimeo, YouTube, or Zoom SDK)
+-Payment gateways (Razorpay, Stripe)
+-Email/SMS notifications (e.g., SendGrid, Twilio)
+-Calendar integrations for scheduling
+
+DevOps & Deployment:
+-Git, GitHub (version control)
+-Docker (basic containers for dev/prod environment)
+-CI/CD pipelines (GitHub Actions preferred)
+-Cloud hosting (AWS/GCP/Vercel/Render)
+
+Requirements:
+- 3–5+ years of hands-on full stack development experience
+- Proven experience building scalable, production-level SaaS or e-learning platforms.
+- Familiar with LMS models and educational workflows.
+- Strong communication and timely delivery skills
+- Comfortable working independently and giving weekly progress updates.
+- Willing to sign NDA and contract (if required)
+
+Start Date: Immediately
+Estimated Duration: 2-3 Months
+Please include in your proposal:
+
+How to Apply:
+Please include in your proposal:
+- Resume or Upwork profile.
+- Portfolio or links to similar platforms you've built
+- GitHub or code samples.
+- Estimated timeline and cost.
+- Brief on how you'd approach this project.","Web","","","","","Web Development","SEO Content","Java","React","HTML","Web Application","+1","API Integration","JavaScript","",""
+"38 minutes ago","App Development for Geolocation-Based Restricted Areas","https://www.upwork.com/jobs/span-class-highlight-Web-span-App-Development-for-Geolocation-Based-Restricted-Areas_~021917567635300286415/?referrer_url_path=/nx/search/jobs/","Hourly: $15.00 - $35.00","Intermediate","Est. time:","1 to 3 months, Less than 30 hrs/week","We are seeking a skilled  developer to create a   that displays restricted areas on a map based on the user's location. The admin will define the restricted areas, and the app should provide an intuitive user experience with clear map visuals. Familiarity with mapping APIs, geolocation services, and user interface design is essential. The project aims to enhance safety and compliance in defined regions. If you have experience in similar projects, we would love to hear from you!","web","web","application","","","Web Development","JavaScript","PHP","Android","Java","","","","","Web",""
+"45 minutes ago","Developer (WordPress) – GVE London | Supercar Showroom","https://www.upwork.com/jobs/span-class-highlight-Web-span-Developer-WordPress-GVE-London-Supercar-Showroom_~021917565666992836778/?referrer_url_path=/nx/search/jobs/","Hourly: $10.00 - $30.00","Expert","Est. time:","More than 6 months, 30+ hrs/week","GVE London, one of the UK's leading supercar dealerships, is looking for a highly skilled and proactive  Developer to support, maintain, and evolve our digital presence. Our  is the central hub of our business, showcasing luxury and supercars to a global audience, and we are seeking a developer who is not only technically proficient but also passionate about delivering seamless user experiences and performance excellence.
+
+Key Responsibilities:
+
+ Maintenance & Upkeep:
+Regularly monitor and maintain our WordPress , ensuring all plugins, themes, and core files are up-to-date and secure.
+
+Feature Development:
+Design and implement new functionalities that improve user experience, conversion rates, and internal processes (e.g., vehicle listings, customer login areas, form improvements, lead capture enhancements).
+
+AI Integration:
+Leverage AI tools (e.g., ChatGPT, Midjourney, Gemini) to assist with content generation, customer interaction features, UI/UX suggestions, SEO improvements, and creative development.
+
+Bug Fixing & Optimisation:
+Identify, debug, and resolve technical issues promptly. Continuously optimise for speed, SEO, and responsiveness across devices.
+
+UI/UX Improvements:
+Propose and implement upgrades to the visual layout and navigational flow, using analytics and heatmaps where necessary to back decisions.
+
+SEO Best Practices:
+Collaborate with marketing to ensure on-page SEO standards are implemented, and assist with structured data, meta tags, and performance enhancements.
+
+Analytics & Tracking:
+Ensure Google Analytics, Google Tag Manager, and other marketing tools are working accurately. Help implement A/B testing when needed.
+
+API & Third-Party Integrations:
+Maintain and expand integrations with CRMs (e.g., Salesforce), live chat, finance  tools, and vehicle valuation plugins.","Web","website","Website","site","application","Web Development","WordPress","","","","Web Design","","","","Web",""
+"46 minutes ago","Full-Stack Developer for FaceAI Wrapper App","https://www.upwork.com/jobs/Full-Stack-Developer-for-FaceAI-Wrapper-App_~021917565538043154602/?referrer_url_path=/nx/search/jobs/","Fixed price","Intermediate","Est. budget:","$50.00","We’re looking for a skilled Full-Stack Developer to help build a wrapper  for FaceAI – an advanced AI tool that enables users to try on clothes virtually, enhance photos, and perform image-to-image transformations.
+
+Responsibilities:
+
+Develop the backend using Python with Flask or FastAPI
+
+Build the frontend using React
+
+Enable users to upload images, view previews, and track the AI processing progress
+
+Create and integrate RESTful APIs between the front and back ends
+
+Ensure app performance, scalability, and smooth user experience
+
+Collaborate with designers and AI engineers to bring the app to life
+
+Requirements:
+
+Strong experience with Python (Flask or FastAPI) and React
+
+Familiarity with image processing libraries such as OpenCV or Pillow
+
+Understanding of Redux and basic machine learning concepts
+
+Experience with containerization tools like Docker
+
+Strong communication and teamwork skills
+
+Preferred Qualifications:
+
+Experience working with cloud platforms such as AWS, Google Cloud, or Azure
+
+Background in AI-powered tools, especially in the fashion or e-commerce space
+
+Prior experience building scalable  apps for a wide user base
+
+This is an exciting opportunity to contribute to a cutting-edge AI product and help make it accessible to a broad audience. We’re looking for someone who is passionate about building intuitive, efficient tools that solve real user problems.","application","web","","","","Web Application","Android","JavaScript","Java","Node.js","","","API","Mobile App Development","",""
+"1 hour ago","Image Capture for AI tool","https://www.upwork.com/jobs/Image-Capture-for-tool_~021917557188379267242/?referrer_url_path=/nx/search/jobs/","Hourly: $15.00 - $35.00","Intermediate","Est. time:","1 to 3 months, Less than 30 hrs/week","We’re seeking skilled developers to create a   that captures images via Twilio MMS and stores them in AWS S3, integrating with our existing Voice AI and Digital AI tools. The app will receive MMS images from users prompted by Voice AI calls or Digital AI chats and save them securely for warranty claim support and technician diagnoses.
+
+Key Deliverables:
+
+Build a  app UI to display received images and analysis results.
+Integrate Twilio MMS to capture user-sent images from text messages.
+Store images in AWS S3 with secure access.
+Connect to Voice AI (call prompts) and Digital AI (chat prompts) APIs to trigger MMS image uploads.
+
+Requirements:
+
+Proficiency in  development (e.g., Node.js, React, or similar frameworks).
+Experience with Twilio MMS, AWS S3, and API integrations.
+Ability to deliver a clean, functional UI with secure storage and AI tool sync.
+
+Timeline & Budget:
+
+Duration: 1-2 weeks—target completion by May 14, 2025.
+Budget: $500-$750 (fixed)
+
+Submit: Examples of  projects with Twilio or AWS integrations, your approach to meet the timeline and budget, and confirmation of immediate availability.","web","application","web","web","web","","Next.js","Python","RESTful API","Artificial Intelligence","","","","","",""
+"1 hour ago","App Development for AI Camera Live Feeds and Analytics","https://www.upwork.com/jobs/span-class-highlight-Web-span-App-Development-for-Camera-Live-Feeds-and-Analytics_~021917554613351783655/?referrer_url_path=/nx/search/jobs/","Hourly: $15.00 - $35.00","Intermediate","Est. time:","1 to 3 months, 30+ hrs/week","We are seeking a skilled developer to create a   that integrates AI camera live feeds, alert systems, remote control capabilities, and crowd heat mapping analytics. The ideal candidate will have experience in real-time data processing and user-friendly interface design. You will work closely with our team to deliver a robust platform that enhances monitoring and analysis of crowd dynamics. If you have a passion for AI and strong development skills, we want to hear from you!","web","application","","","","Amazon Web Services","Python","JavaScript","React","Java","","","","","Web",""
+"1 hour ago","Full-Stack Developer Needed to Build AI SaaS for African Businesses (No-Code + GPT + WhatsApp)","https://www.upwork.com/jobs/Full-Stack-Developer-Needed-Build-SaaS-for-African-Businesses-Code-GPT-WhatsApp_~021917553810131636394/?referrer_url_path=/nx/search/jobs/","Hourly: $25.00 - $47.00","Expert","Est. time:","1 to 3 months, Less than 30 hrs/week","Title: Full-Stack Developer Needed to Build AI SaaS for African Businesses (No-Code + AI)
+
+Description:
+
+We’re creating AfriOps AI — a business automation platform for African small and medium-sized enterprises. The MVP will include invoicing, simple AI-powered bookkeeping, and messaging automation.
+
+We need a full-stack developer or no-code expert who can:
+
+Build a clean, mobile-friendly dashboard
+
+Connect AI APIs for financial summaries and automation
+
+Automate invoice delivery via messaging tools
+
+Set up secure payments using regional payment processors
+
+Preferred Tools:
+
+No-code tools (Bubble, Webflow)
+
+AI APIs (e.g., OpenAI)
+
+Automation platforms (e.g., Zapier or similar)
+
+Experience with payment integrations (e.g., Stripe, Flutterwave)
+
+Bonus if you have:
+
+Built SaaS tools before
+
+Experience with mobile-first dashboards
+
+Worked with or understand African SME environments
+
+💰 Budget: $1,500 – $3,000
+📈 Equity opportunity for long-term collaboration
+
+To Apply: Please include:
+
+Examples of similar SaaS tools or dashboards you’ve built
+
+Your preferred development tools
+
+Estimated time to deliver the MVP
+
+Let’s build a powerful solution to empower African businesses.","","","","","","Web Development","","","","","Web Design","","","","",""
+"1 hour ago","Full Stack Developer – Social Media Personality App (Mobile First)","https://www.upwork.com/jobs/Full-Stack-Developer-Social-Media-Personality-App-Mobile-First_~021917549516216121077/?referrer_url_path=/nx/search/jobs/","Hourly","Intermediate","Est. time:","1 to 3 months, Less than 30 hrs/week","Project Brief: Full Stack Developer – Social Media Personality App (Mobile First)
+
+Overview
+
+First in a line of development work on our portfolio. We’re building a lightweight, mobile-first social media  app that uses facial analysis to identify personality traits and display results. The app connects to a neural network via API, and stores and retrieves user data from a PostgreSQL database. It is a fully responsive  app with mobile first design. The layout and navigation has already been fully developed in Figma by our UX / UI expert.
+
+We are looking for: 
+
+A bright, enthusiastic and driven coding partner! Someone who knows their stuff, can deliver at pace and isn't afraid to challenge our assumptions based on their experience. 
+
+•	A full-stack dev with strong frontend + API experience
+•	Comfortable working solo, shipping clean code but also able to work with cutting edge AI technology and our fast-paced team.
+•	Experienced with responsive/mobile-first apps
+•	Bonus if you’ve worked with ML, facial recognition, or personality prediction
+
+Objective
+Create a fully responsive   that:
+•	Captures a user’s face (via webcam or phone camera)
+•	Sends the image to a backend API that connects to a neural network
+•	Receives predicted personality traits
+•	Stores results in a PostgreSQL database
+•	Displays results to the user in a clean, intuitive UI
+•	Provides life advice using database content and LLM API / prompts.
+
+Developer Requirements
+We’re looking for a developer who can:
+•	Build both the frontend and backend
+•	Set up and manage a PostgreSQL database 
+•	Integrate with a neural network via API (we will provide endpoint specs)
+•	Deliver a clean, mobile-first responsive design (HTML/CSS or framework)
+•	Ensure good security practices (input validation, CORS, etc.)
+
+Core Features to Implement
+Frontend (Mobile First)
+•	Responsive layout (HTML/CSS/JS or framework like React/Vue)
+•	Webcam/camera access to capture facial image
+•	Simple onboarding or input screen
+•	Personality result display screen (data visualisation or styled text)
+•	Light/dark mode toggle (optional bonus)
+
+Backend (API Layer)
+•	API route to send captured image to neural network endpoint (we provide docs)
+•	API route to save and fetch results from PostgreSQL
+•	User session/token handling (basic, no full auth system required)
+•	Serve frontend if full-stack (Node.js, Python FastAPI, or similar)
+
+Database (PostgreSQL) - developer can make recommendations based on optimal design / experience
+•	Users table (id, timestamp, IP/device hash, etc.)
+•	Results table (user_id, OCEAN scores, time of prediction, raw JSON)
+•	Optional: Logging or image metadata table
+
+Tech Stack (suggested, but flexible)
+•	Frontend: HTML/CSS/JS, React, or Vue
+•	Backend: Node.js (Express), Python (FastAPI), or similar
+•	DB: PostgreSQL (hosted locally or cloud e.g. Supabase or RDS)
+•	API integration: RESTful or GraphQL
+•	Deployment: cloud-based 
+
+Deliverables
+•	Working full-stack  app (mobile-optimised)
+•	Codebase on GitHub with setup instructions (README)
+•	Deployed live demo link (optional, even if local tunnel)
+•	PostgreSQL schema and seed script
+•	Postman or Swagger doc of API endpoints
+
+Timeline
+•	Prototype delivery (static content, drop downs and working navigation): [2 weeks from start]
+•	Soft launch - Final version (Full functionality and integration with APIs): [3–4 weeks from start]
+•	Post Launch – Updated version (bug fixes based on live feedback [1-2 weeks FTE - part time over 1 month]
+
+How to Apply
+
+Send links to:
+•	GitHub or portfolio
+•	Examples of responsive  apps or APIs you’ve built
+•	Any similar work with facial recognition or ML integrations","web","web","web","application","web","Web Application","React","Next.js","Front-End Development","Tailwind CSS","Web Development","+8","Redux","","","web"
+"1 hour ago","Remote Business Systems Analyst (Full-Time – Long-Term Engagement)","https://www.upwork.com/jobs/Remote-Business-Systems-Analyst-Full-Time-Long-Term-Engagement_~021917548446971854799/?referrer_url_path=/nx/search/jobs/","Hourly","Intermediate","Est. time:","More than 6 months, 30+ hrs/week","Responsibilities:
+
+1. Phase 1 – Job Hunting (Until Placement):
+   - Actively search and apply for full-time remote Business Systems Analyst roles.
+   - Customize resumes, cover letters, and other materials for each .
+   - Attend interviews and assessments as needed.
+   - Communicate progress regularly and transparently.
+
+2. Phase 2 – Post-Placement (Full-Time Work):
+   - Remain in the secured full-time BSA position.
+   - Fulfill all employer expectations and responsibilities.
+   - Maintain professional standards and performance.
+
+
+Compensation Structure:
+
+1. Revenue Split Based on Secured Job Salary:
+   - If the secured job pays $50,000 CAD annually, the compensation split will be:
+     - 90% to us / 10% to you.
+   - For every $10,000 CAD increase in annual compensation, your share will increase by 5%, reducing ours accordingly.
+     - Example:
+       - $60,000 CAD → 85% us / 15% you  
+       - $70,000 CAD → 80% us / 20% you  
+       - $80,000 CAD → 75% us / 25% you  
+       - $90,000 CAD → 70% us / 30% you
+       - so on.
+
+2. Job Hunting Bonus:
+   - Upon successful placement, you will receive a $200 CAD one-time payout, provided from our share, along with your first month’s payout. This is a bonus for your efforts during the job search phase and will not impact your long-term percentage split.
+
+
+Engagement Terms:
+- You’ll be hired through Upwork and paid via the platform.
+- You must be comfortable with the compensation model described above.
+- Full transparency during the  and job search process is required.","application","application","","","","Web Application","Business Planning & Strategy","Business Analysis","UI/UX Prototyping","Product Documentation","","+10","","","",""
+"2 hours ago","Full Stack Developer for","https://www.upwork.com/jobs/Full-Stack-Developer-for-span-class-highlight-Web-span-span-class-highlight-Application-span_~021917536892087959503/?referrer_url_path=/nx/search/jobs/","Fixed price","Intermediate","Est. budget:","$5.00","We are seeking an experienced full stack developer to create a   from scratch. The ideal candidate will have a strong understanding of both front-end and back-end technologies and experience with cloud deployment. We need a end to end   for our startup. Connect with us to get to know full about the project.
+You will be responsible for developing robust  applications using MongoDB, Express.js, React.js, and Node.js. A strong understanding of Docker for containerization and deployment processes is essential. The ideal candidate should be able to manage the full software development lifecycle and collaborate effectively with our team. If you are passionate about building high-quality scalable applications, we want to hear from you!","web","application","web","application","web","Web Development","JavaScript","API Integration","CSS","API","Web Application","+2","PHP","AngularJS","Web","Application"
+"2 hours ago","Experienced .NET Developer Required","https://www.upwork.com/jobs/Experienced-NET-Developer-Required_~021917536538170662119/?referrer_url_path=/nx/search/jobs/","Fixed price","Intermediate","Est. budget:","$500.00","We are looking for an experienced .NET Software Developer to provide dedicated support to one of our clients. The ideal candidate will have strong technical expertise in the .NET and a passion for problem-solving. This is a remote opportunity, but you must be available to work during Eastern Standard Time (EST) hours.
+
+Responsibilities:
+Provide technical support and troubleshooting for a .NET-based .
+Collaborate with the client to resolve issues and implement enhancements.
+Debug and maintain existing code to ensure optimal performance.
+Assist with ongoing development tasks as needed.
+Communicate effectively with both technical and non-technical stakeholders.
+
+Requirements:
+5+ years of experience with the .NET Core .
+Strong knowledge of SQL Server and relational databases.
+Familiarity with front-end technologies like Angular or React.
+Proven experience in debugging and troubleshooting .NET applications.
+Excellent communication and interpersonal skills.
+
+Preferred Skills:
+Experience with Azure or other cloud platforms.
+Prior experience in a client-facing support role.","application","","","","","Web Development","Microservice",".NET Framework","C#","API","","","ASP.NET MVC","Microsoft SQL Server","",""
+"2 hours ago","Build an AI Event Finder ( Scraping, React & Next.js, FastAPI, Supabase, Maps Integration)","https://www.upwork.com/jobs/Build-Event-Finder-span-class-highlight-Web-span-Scraping-React-amp-Next-FastAPI-Supabase-Maps-Integration_~021917535650501408501/?referrer_url_path=/nx/search/jobs/","Fixed price","Entry Level","Est. budget:","$5.00","Hi there! 👋
+I’m looking for a full stack AI developer to help launch Consergio, an AI-powered agent that finds awesome events for users. If you love combining  scraping, AI, and cool UIs, this is for you!
+
+What you’ll do:
+- Build an AI agent that suggests events users will love
+- Scrape event data from  like Ticketmaster and TimeOff (using BeautifulSoup, Scrapy, or Selenium)
+- Create a modern frontend (React or Next.js + Tailwind CSS + Shadcn UI)
+- Add interactive maps with Mapbox
+- Set up a backend (FastAPI or Node.js) and use Supabase/PostgreSQL for the database
+
+Let’s start with a short, paid test! If we click, there’s more work ahead.","web","sites","","","","Web Application","Python","JavaScript","React","Node.js","","+3","API Integration","PostgreSQL Programming","Web",""
+"2 hours ago","-Based  Development Using PHP and MySQL","https://www.upwork.com/jobs/span-class-highlight-Web-span-Based-span-class-highlight-Application-span-Development-Using-PHP-and-MySQL_~021917534744012914639/?referrer_url_path=/nx/search/jobs/","Fixed price","Intermediate","Est. budget:","$500.00","We are looking for a skilled developer to keep building an existing -based  utilizing PHP, HTML, CSS, JavaScript, MySQL, and FFMPEG. The ideal candidate should have a strong understanding of  technologies and be capable of integrating multimedia functionalities. You will be responsible for designing the user interface, implementing backend logic, and ensuring database connectivity. This project requires creativity, attention to detail, and excellent problem-solving skills. If you have experience in developing similar applications, we’d love to hear from you!
+
+The first job is to really refine and clean up what has currently been built, there are lots of problems that need fixing. 
+
+also i need someone who can do more than just copy and paste a.i code, the candidate needs real experience with these functionalities 
+
+
+existing code here
+https://github.com/AarnaTechLko/vcom
+
+outline of functionality here
+https://docs.google.com/document/d/1JgqKy4gGk24PbJPAUaAiN6SZI6L7XUr04c11wNOQptQ/edit?usp=sharing","web","application","web","","","","PHP","MySQL","MySQL Programming","JavaScript","","","Custom PHP","","Web","Application"
+"3 hours ago","C# Consulting Session for Windows App (Creating MSI installer for multi-user environment)","https://www.upwork.com/jobs/Consulting-Session-for-Windows-App-Creating-MSI-installer-for-multi-user-environment_~021917528169655029930/?referrer_url_path=/nx/search/jobs/","Hourly: $30.00 - $150.00","Expert","Est. time:","Less than 1 month, Less than 30 hrs/week","We are looking for an experienced Windows Expert (.NET / C#) expert who can join us in a consulting session to review our installation and help us write a solid installation architecture.
+
+About us:
+- Software Agency focusing on  Applications
+- Working with SMEs in Germany to Automate Workflows
+- Our team consists of experts in many fields, but we don't have much experience with C# / .NET and need guidance
+
+About the 
+- The  installs a virtual printer on the users PC
+- Using that printer, the user can upload files to our  server
+- The  features a GUI where the user can modify some upload options
+
+The current challenges:
+
+Installation in Multi-User Enviornment
+- The  is working fine on a single user test environment
+- However, our customers are logging in with different users to the same PC. Each user shall be able to use the , but have their own config being applied.
+
+Responsive UI
+- The GUI is built with Windows Forms, which doesn't allow re-scaling and can cut off content when on small devices. We need guidance how to solve that.","Web","application","application","web","application","Application Installer","C#","Microsoft Windows",".NET Framework","Windows App Development","","","Microsoft Visual Studio","","","application"
+"3 hours ago","and Mobile App Development for Accident and Safety Management","https://www.upwork.com/jobs/span-class-highlight-Web-span-and-Mobile-App-Development-for-Accident-and-Safety-Management_~021917524954872756976/?referrer_url_path=/nx/search/jobs/","Fixed price","Intermediate","Est. budget:","$3,000.00","We are seeking an experienced developer to create an administrative  platform and a user-friendly mobile  for serious accidents and safety management. The   will allow administrators to manage incidents, while the mobile app will enable users to report accidents and access safety resources. Our ideal candidate should have a strong background in developing robust applications with a focus on user experience and security. If you have a passion for enhancing safety through technology, we'd love to hear from you!","web","application","web","application","","Web Development","Android","JavaScript","iOS","User Authentication","","","","","Web",""
+"3 hours ago","Home Page Redesign for","https://www.upwork.com/jobs/Home-Page-Redesign-for-span-class-highlight-Website-span_~021917524803629875151/?referrer_url_path=/nx/search/jobs/","Hourly","Intermediate","Est. time:","1 to 3 months, Less than 30 hrs/week","We are seeking a talented  designer to redesign the home page of our existing . 
+
+https://mailtimers.com/
+
+The goal is to make a more modern design of the SAAS  for email marketing, upon request I can send examples of  that I like.","web","website","application","sites","","Web Design","UX & UI","Graphic Design","","","","","","","Website",""
+"3 hours ago","Developer Needed for Small  App Development","https://www.upwork.com/jobs/span-class-highlight-Web-span-Developer-Needed-for-Small-span-class-highlight-Web-span-App-Development_~021917524728688319719/?referrer_url_path=/nx/search/jobs/","Hourly: $5.00 - $15.00","Intermediate","Est. time:","Less than 1 month, 30+ hrs/week","We are seeking a skilled  developer to create a small   focusing on user login and account management functionalities. The ideal candidate should be adept at building secure and user-friendly applications that can handle user authentication and account features. Strong attention to detail and good communication skills are essential for this project. If you have experience with modern  technologies and can deliver a high-quality , we’d love to hear from you!","web","web","application","web","application","Web Development","JavaScript","WordPress","HTML","PHP","","","","","Web","Web"
+"3 hours ago","Exceptional PHP / Next (/React) developer needed for fast-paced startup","https://www.upwork.com/jobs/Exceptional-PHP-Next-React-developer-needed-for-fast-paced-startup_~021917523132208593648/?referrer_url_path=/nx/search/jobs/","Hourly: $55.00 - $80.00","Intermediate","Est. time:","More than 6 months, 30+ hrs/week","We’re a rapidly growing startup in the commercial real estate tech space, and we're looking for a Laravel & Next (/React) Developer.  This is a full stack position, but you'll be doing more backend than frontend.
+
+The Role
+========
+No BS: we have a lot of tech debt from prior generations of agency developers, and simultaneously have aggressive roadmap goals. This is a challenging position for a deeply skilled engineer who enjoys bringing order to chaos while regularly shipping business value. This is not a typical  developer job. If you want to work hard, get paid well, and also deliver high quality software -- read on.
+
+Why You Might Not Be A Fit
+======================
+We will ignore applications that aren't a fit. Don't waste our time or yours if you don't hit these, please.
+
+* We are looking for a minimum of 10 years of experience since graduation.
+* This is a full time role. We have business goals to hit and cannot accomodate part time.
+* We need at least 75% EST business day overlap - ideally 100%. Since we're moving fast, synchronous comms are important.
+
+What You’ll Do
+===========
+* Build and maintain our Laravel-based platform with scalability and performance in mind.
+* Develop new features, integrate third-party APIs, and optimize data flows.
+* Troubleshoot issues, fix bugs, and ensure smooth operation as we scale.
+* Write clean, maintainable code that aligns with best practices.
+* Collaborate with a fast-moving remote team – communication and ownership are key.
+
+Our Rigorous Interview Process 
+==========================
+Our interview process is intense by Upwork standards, but if you are genuinely a high performing developer, you stand great chances. We guarantee we won't waste your time; if you don't make it after the first round, we'll let you know. The process includes:
+
+* 1-2 Technical Assessments: Prove your coding skills in recorded interviews that simulate real-world challenges.
+* 1+ Conversational Tech Interviews: Showcase your experience, ideas, and mindset while learning about our vision.
+* 1+ Final Round: Finalists will be interviewed by the CEO.
+
+What We’re Looking For
+===================
+* Proven experience with PHP and Laravel.
+* Very solid Typescript & React, and (nice to have) Next.
+* Strong knowledge of PostgresQL.
+* Ability to thrive in a fast-paced, dynamic environment.
+* A problem-solver with excellent communication skills and a self-starter mindset.
+* CS degree.
+* Minimum of 10 years experience.
+
+To Apply
+=======
+* Attach your resume as a PDF.
+* Include a link to your GitHub profile 
+* Include the sentence: “I wrote this  myself and did not use an LLM while writing it.”
+* If you are an agency: only apply if the dev will be 100% embedded in our team, with no project manager in the mix. We're not interested in agency relationships. I will ignore any agency  applications where this isn't acknowledged.
+
+If you’re ready to prove you’re among the best and take on a role that will push you to excel and leave a lasting impact, apply now.","web","application","","","","","Laravel","PostgreSQL","PHP","Next.js","","","Vue.js","","",""
+"3 hours ago","React Developer for Software Automation in Coaching and eLearning Business","https://www.upwork.com/jobs/React-Developer-for-Software-Automation-Coaching-and-eLearning-Business_~021917522950215343335/?referrer_url_path=/nx/search/jobs/","Fixed price","Expert","Est. budget:","$2,600.00","Our rapidly expanding coaching and eLearning business, with over 3000 paying students, urgently requires advanced AI tools to enhance our digital offerings. We are seeking an experienced and autonomous full-stack software engineer skilled in   and mobile app development. The ideal candidate will thrive in an agile development environment, participating in weekly deployments and bi-weekly scrum meetings. This position is open to USA-based developers only.
+
+Deliverable: Implement cutting-edge automation solutions using React for front-end development, with a robust Node.js backend. The project will interface seamlessly with our existing systems, employing a mobile-first approach. This is not a project starting from scratch.
+
+Must Haves:
+4+ years of experience in React development and  development
+Strong understanding of React best practices and UX/UI design principles
+Ability to interface with back-end systems via RESTful APIs
+Commitment of 10-20 hours weekly, with transparency in deliverables through Git tracking
+Proficiency in deployment using our AWS CodeDeploy pipeline and active participation in PR reviews
+Experience with production-level enterprise systems and high-demand environments
+
+Nice to Have:
+Expertise in cache control and managing cookies
+4+ years of experience in React Native for mobile app development
+DevOps skills, particularly AWS deployment knowledge
+Understanding of architecture for interaction with existing services
+Experience with cloud logins using Google/Facebook authentication
+
+Note: We are looking for a seasoned, self-driven developer who maintains high standards in full-stack development. Bonuses are awarded based on monthly output and feature-based accomplishments. An occasional same-day request may be rewarded with a bonus.","web","application","web","","","Web Application","TypeScript","Full-Stack Development","API Integration","JavaScript","Web Development","","React","","",""
+"3 hours ago","React/Python Expert Needed","https://www.upwork.com/jobs/React-Python-Expert-Needed_~021917518407035256783/?referrer_url_path=/nx/search/jobs/","Fixed price","Expert","Est. budget:","$50.00","We're looking for a highly experienced React/Python developer to help us build a dynamic   for our rapidly growing SaaS platform. The ideal candidate has deep expertise in both frontend development using React (with modern features like hooks and context API) and backend development using Python, particularly with frameworks like FastAPI or Django.
+
+You’ll be working closely with our in-house product and design teams to deliver clean, scalable, and performant code. This is a long-term opportunity for the right developer, with the potential to transition into a leadership role.
+
+Responsibilities:
+
+- Build and maintain responsive UI components using React
+- Develop RESTful APIs and backend services using Python (FastAPI or Django)
+- Collaborate with frontend and backend developers to integrate APIs seamlessly
+- Write clean, reusable, and testable code
+- Optimize  performance and scalability
+- Work with PostgreSQL or MySQL for database operations
+- Participate in code reviews and daily standups
+
+Required Skills:
+- 5+ years of experience with React (hooks, context, functional components)
+- 5+ years of experience with Python
+- Experience with FastAPI, Django, or both
+- Strong understanding of REST architecture
+- Proficiency in SQL databases (PostgreSQL preferred)
+- Familiarity with Docker and basic DevOps workflows
+- Version control using Git
+
+Nice to Have:
+- Experience with GraphQL
+- Knowledge of CI/CD pipelines
+- Familiarity with AWS or other cloud providers
+- Unit testing and integration testing expertise","web","application","application","","","Web Development","Python","React","JavaScript","HTML","Amazon Web Services","","CSS","API","",""
+"4 hours ago","Develop 3 apps from lovable MVPs","https://www.upwork.com/jobs/Develop-apps-from-lovable-MVPs_~021917513027826530037/?referrer_url_path=/nx/search/jobs/","Hourly: $15.00 - $35.00","Intermediate","Est. time:","3 to 6 months, 30+ hrs/week","---The Mission---
+We’ve built a small but lovable MVP that users are engaging with—and now it’s time to evolve it into a fully functional, stable, and scalable .
+
+We’re looking for a thoughtful, collaborative engineer (or small team) to help bring this next version to life.
+
+This isn’t a from-scratch job—we already have something working in lovable. 
+But now we need to:
+- Clean up and optimize the codebase
+- Improve performance and architecture where needed
+- Fix edge-case bugs and polish UX
+- Build out remaining features and workflows
+- Prepare for production usage (security, stability, deployment, etc.)
+
+⚙️ Where We Are Now
+- Prototype is working on lovable
+- Stack: To be defined, but we got the basic lovable repo (typescript + supabase)
+- UX is rough in spots, code could use structure and attention
+- Some features are still hardcoded or only partially implemented
+
+Important: We haven’t yet defined full specs, so collaboration is key
+
+--- Who We’re Looking For---
+You’re someone who can take a rough but working product and:
+- Bring engineering maturity to what’s already built
+- Help fill in gaps where specs aren’t fully defined
+- Work with a product founder who’s open to async and iterative collaboration
+- Provide guidance where needed—architecture, tooling, devops, etc.
+- Balance speed and pragmatism with long-term thinking
+
+---Sample Tasks You Might Work On---
+- Modularizing hardcoded logic into scalable components
+- Rebuilding pages with a proper design system or framework
+- Integrating auth, payments, or APIs
+- Replacing duct-taped backend logic with robust flows
+- Deploying to Vercel/Fly.io/Render with CI/CD
+- Adding tests or observability layers where missing
+
+---Bonus If You---
+- Have shipped production-grade SaaS or apps from MVP stage
+- Can think about product and UX—not just code
+- Are comfortable suggesting improvements beyond what’s asked
+- Have experience with AI tools (V0, Bolt, Lovable), React/Next.js, Supabase , etc.","application","","","","","Web Application","","","","","Website Redesign","","","","",""
+"4 hours ago","Laravel Developer with Frontend-Skills (Long-Term)","https://www.upwork.com/jobs/Laravel-Developer-with-Frontend-Skills-Long-Term_~021917512034205564879/?referrer_url_path=/nx/search/jobs/","Hourly: $20.00 - $35.00","Expert","Est. time:","More than 6 months, 30+ hrs/week","We are looking for a strong Laravel developer with strong skills in Frontend too.
+
+Required skills
+— Laravel
+— MySQL / Database Design
+— Sass / Bootstrap / Tailwind
+— English
+
+As a plus
+— Statamic
+
+We offer
+— Working from home-office
+— Modern tools and technologies for communication
+— Education-courses for technologies and languages
+— Bonus-payments for successful projects
+
+Responsibilities
+— Development of individual - and app-based solutions
+— Testing own implementations
+— Test Pull-Requests of other developers
+
+Project description
+We are a small developer team from Germany and searching for a Laravel-developer for long-term. We are working with our colleagues remotely from all over the world for almost 5 years now. (Un)fortunately, there is too much work for us and so we would like to welcome you to our team.
+
+Please send us your  containing your hourly rate, hours per week you are available for us, the technologies you like most and a list of projects you developed previously.
+
+See/read you soon!","web","application","","","","Web Application","API Integration","Custom PHP","Laravel","PHP","","+1","CSS","HTML","",""
+"4 hours ago","Seeking Expert to Co-Design & Build Automation System (N8N Preferred)","https://www.upwork.com/jobs/Seeking-Expert-Design-Build-Automation-System-N8N-Preferred_~021917511956405145770/?referrer_url_path=/nx/search/jobs/","Hourly: $15.00 - $45.00","Expert","Est. time:","More than 6 months, Less than 30 hrs/week","NOTE: open attached PDF for better readability. 100% AI-generated proposals / messages will be ignored (-:
+
+###
+
+Seeking Expert Partner to Co-Design & Build Marketing Automation System (N8N Preferred)
+
+Project Description
+About REPLY42: We are a marketing agency delivering measurable results for mid-sized businesses through our data-driven TACO strategy (Technical Foundation, Advanced SEO, Customized Content, Optimized Promotion).
+Our Vision: We aim to build a comprehensive, intelligent automation system for our entire TACO workflow. This system will leverage workflow automation (N8N preferred), databases, AI, and various APIs to productize our services, significantly boost efficiency, ensure consistent quality, and free up our team for high-value strategic tasks.
+
+The Opportunity: We are seeking an experienced Automation & System Design Expert to partner with us in this exciting initiative. We aren't looking for someone to simply execute a predefined plan; we want a strategic partner to collaboratively design the optimal system architecture and select the best-fit technology stack (database, workflow engine, integrations) alongside our founder and an AI Project Manager. Your expertise will be crucial in shaping a robust, scalable, and maintainable solution.
+
+First Step (MVP): The initial engagement will focus on jointly planning and implementing the core client onboarding process. This includes automating data capture from forms, enriching data through automated research/scraping, storing information in the collaboratively defined database, and setting up initial project structures (e.g., in Slack).
+
+Long-Term Partnership: Successful collaboration on the MVP offers a strong potential for a long-term partnership, extending the automation across all four TACO pillars.
+
+The Challenge
+We need to design and implement a scalable, robust, and maintainable automation platform that can handle the complexities of our multi-faceted TACO marketing service delivery. The core challenge lies in designing a highly intelligent system of interacting N8N agents. This involves integrating various data sources, orchestrating complex workflows, leveraging AI capabilities, and providing seamless interfaces for our team (primarily via Slack and our PM tool). A key component is the efficient and standardized connection of these agents to tools and data, for which demonstrable experience with protocols such as MCP (Model Context Protocol) or established equivalents is mandatory.
+
+Your Role
+As our Automation & System Design Expert, you will:
+Work in close collaboration with our founder and an AI Project Manager.
+Lead the process of defining the optimal system architecture based on our goals and constraints.
+Evaluate and select the core technology stack (database technology, workflow engine, specific APIs/tools), providing clear justifications for your recommendations. While we have a strong preference for N8N as the workflow engine due to its flexibility and self-hosting capabilities, we are open to compelling arguments for alternatives.
+Co-design and then implement the initial MVP, focusing on the client onboarding process.
+Plan the roadmap for automating subsequent modules across the TACO pillars.
+Ensure the solution is well-documented, maintainable, and scalable.
+
+Required Core Competencies
+We are looking for an expert with proven experience in:
+System Architecture & Design: Designing complex, scalable automation or backend systems.
+
+Deep, Demonstrable Expertise in N8N: Proven ability to design, build, and orchestrate complex systems using interacting N8N agents (Agent Node, Think Tool, etc.). Showcase projects where you successfully managed agent coordination and complex workflow logic within N8N. While N8N is strongly preferred, expertise in comparable enterprise-grade tools (Make, Zapier, Workato) is acceptable only if coupled with a strong justification and the ability to apply agent-based system design principles.
+
+Mandatory: Proven Hands-On Experience with MCP or Equivalents: Demonstrable, practical experience implementing Model Context Protocol (MCP) or equivalent robust, established standards for providing AI agents consistent and efficient access to tools, services, and data. Theoretical knowledge is insufficient; describe specific projects where you have successfully implemented such mechanisms.
+
+Database Technologies: Experience with various database types (SQL required, NoSQL beneficial). Ability to evaluate, select, design schemas for, and manage the appropriate database solution for the project needs (e.g., PostgreSQL, MySQL, MongoDB).
+
+API Integration: Extensive experience integrating diverse third-party APIs (REST, GraphQL) and handling authentication, rate limits, and errors effectively.
+
+Technology Evaluation: Ability to research, compare, and justify technology choices based on technical and business requirements.
+
+Collaborative Problem Solving: Ability to work effectively in a team, discuss trade-offs, and contribute to a shared vision.
+
+Clear Communication & Documentation: Fluency in English and the ability to document designs and processes clearly.
+(Refer to our internal profile for more detailed desirable skills like specific API experience - Slack, PM tools, Scraping, AI, SEO tools, Form builders - and soft skills)
+
+First Focus: Onboarding MVP
+The initial project phase will concentrate on designing and implementing the client onboarding workflow. Key elements include:
+Connecting to our form builder (e.g., Formaloo) to capture initial client data.
+Implementing automated research/data enrichment steps (e.g.,  scraping, API lookups).
+Designing and setting up the chosen database to store client, project, and scraped data.
+Creating initial project setup automation (e.g., creating Slack channels, potentially PM tool projects).
+Establishing robust error handling and logging for the workflow.
+What We Expect in Your 
+Please provide the following in your proposal:
+Introduction: Briefly introduce yourself or your agency.
+Relevant Experience: Detail your specific experience with workflow automation (especially N8N or similar), database design/selection, system architecture, and API integration. Highlight projects where you played a key design and conceptualization role, not just implementation.
+
+Portfolio/Case Studies: Share examples of 2-3 relevant projects you have successfully completed. Focus on the problem, your solution design, the technologies used, and the outcome.
+
+CRUCIAL - N8N Agent & MCP/Equivalent Demonstration: Provide a detailed description and demonstration (e.g., video link, live demo access if possible, or detailed case study) of at least one project where you successfully implemented both interacting N8N agents AND utilized MCP or an equivalent standard for agent tool/data access. This is a critical requirement for consideration.
+
+Your Approach: Briefly outline your preferred methodology or approach for tackling a project like this, emphasizing the collaborative design phase.
+
+Initial Questions/Discussion Points: What key questions would you ask us in an initial discussion to better understand the requirements and start formulating potential solutions? (This helps us gauge your strategic thinking).
+
+Availability: Confirm your general availability, particularly for collaboration during European business hours (CET).
+
+Rate: Please provide your hourly rate or project estimate approach.
+
+We are excited to find a talented expert to partner with us on building this transformative system!","web","Application","","","","","n8n","JavaScript","API Integration","JSON","","","","","",""
+"4 hours ago","development","https://www.upwork.com/jobs/span-class-highlight-Web-span-development_~021917509851622717173/?referrer_url_path=/nx/search/jobs/","Fixed price","Expert","Est. budget:","$500.00","We are building a real-time crypto trading   with an integrated Django  frontend, Docker containerization, PostgreSQL database, and real-time Socket APIs using Django Channels.
+
+The platform includes features like:
+
+Django integrated frontend for admin and users as well API's development for real time mobile .
+
+Live Orderbook (bids and asks) partial, pending and filled orders.
+Executed Tradebook for executed trades as historical.
+User wallet and balance management
+Order matching engine (partial and full fills)
+Fee and commission calculations
+Admin dashboard to monitor trades, users, and fees
+Real-time APIs for frontend/mobile applications
+Dockerized environment with webpack integration
+
+Key Responsibilities:
+Develop and maintain Django backend for order matching and trading logic
+Create and optimize REST APIs using Django Rest Framework (DRF)
+Build and maintain Socket real-time updates using Django Channels
+Implement and manage PostgreSQL database models for users, ordersbook, trades, wallet, some admin functions discussed in person
+
+Write clean, scalable, well-documented code
+
+Setup and manage Docker containers and environments
+Collaborate with frontend developers for smooth API integrations
+
+Implement security best practices for authentication, data privacy, and wallet safety
+
+Deploy the app and maintain CI/CD pipelines (if needed)
+
+Must-Have Skills:
+2+ years professional experience with Python and Django
+Strong knowledge of Django Rest Framework (DRF)
+Experience working with Socket / Django Channels
+Proficient with PostgreSQL (or similar relational DBs)
+Solid understanding of Docker (Dockerfiles, docker-compose)
+Experience with real-time systems or trading platforms 
+
+Familiarity with Git, APIs, and webpack development
+
+Understanding of matching engines, orderbooks, and trading concepts 
+
+Rest details shall be shared if we find you as our match","web","application","web","Web","application","Web Application","Docker","Python","Django","PostgreSQL","","","","","Web","Web"
+"4 hours ago","React Engineer to upgrade an existing project","https://www.upwork.com/jobs/React-Engineer-upgrade-existing-project_~021917509206849140469/?referrer_url_path=/nx/search/jobs/","Hourly: $15.00 - $25.00","Expert","Est. time:","1 to 3 months, 30+ hrs/week","We are seeking a talented React Engineer to join our dynamic team. We are focused on modernizing our existing applications and are looking for someone who can effectively convert our old version to React.
+
+Responsibilities:
+Convert existing applications to React, ensuring a smooth transition and improved performance.
+Collaborate with the development team to integrate APIs and enhance  functionality.
+Utilize Redux for state management and ensure efficient data flow within the .
+Implement Node.js and Express for backend services as needed.
+Work on 3 smart contract integration and wallet connection features, if applicable.
+
+Required Skills:
+- React: Proficient in building user interfaces with React.
+- Redux: Experience in managing  state using Redux.
+- API Integration: Ability to integrate and work with various APIs.
+- Node.js & Express: Familiarity with backend development using Node.js and Express.
+
+Huge Plus:
+- Experience with 3 smart contract integration and wallet connection.","application","application","web","application","web","","React","JavaScript","Node.js","API Integration","","","Nunjucks","","",""
+"4 hours ago","HTML  Implementation Using Tauri for Offline App","https://www.upwork.com/jobs/HTML-span-class-highlight-Website-span-Implementation-Using-Tauri-for-Offline-App_~021917506923112674902/?referrer_url_path=/nx/search/jobs/","Hourly: $15.00 - $22.00","Intermediate","Est. time:","1 to 3 months, Less than 30 hrs/week","We are seeking a skilled developer to implement an HTML  as an offline  using Tauri for both Windows and Mac devices. The project requires converting provided HTML into a functional desktop app. Experience with Tauri and familiarity with offline  development are essential. If you are passionate about creating seamless user experiences and have strong frontend skills, we would love to hear from you.","website","application","application","","","Web Development","JavaScript","HTML","HTML5","CSS","","","","","Website",""
+"4 hours ago","Python Developer, 
+Finalizing MVP for Data Analytics Platform","https://www.upwork.com/jobs/Python-Developer-Finalizing-MVP-for-Data-Analytics-Platform_~021917504645715506933/?referrer_url_path=/nx/search/jobs/","Hourly","Expert","Est. time:","1 to 3 months, Less than 30 hrs/week","Python Developer, Finalizing MVP for Data Analytics Platform 
+
+ 
+
+Project Description 
+We are looking for an experienced Python developer to finalize the MVP of a data analytics platform. The platform integrates structured datasets, generates dashboards, and produces downloadable reports. Tasks include code cleanup, bug fixing, performance optimization, UI/UX improvements, API integration (pulling data and/or linking to an existing database), and enabling flexible Excel file uploads via drag-and-drop. 
+
+ 
+
+Responsibilities 
+
+Review and refactor the existing MVP code for clarity, maintainability, and performance. 
+
+Organize the project into a scalable, modular structure with clean folder organization. 
+
+Fix bugs and ensure stable operation across key features. 
+
+Implement frontend improvements to enhance UI/UX for a clean, professional user experience. 
+
+Optimize performance, especially when handling moderate to large datasets. 
+
+Enable dynamic generation and download of reports (e.g., Excel, PDF, PowerPoint). 
+
+Integrate external APIs to pull data or connect to existing databases as needed. 
+
+Implement drag-and-drop Excel upload functionality with smooth data parsing and integration. 
+
+(Optional) Provide guidance on scalability, security, and deployment best practices. 
+
+ 
+
+Required Skills 
+
+Advanced Python programming skills. 
+
+Experience with Streamlit, Dash, or similar Python-based dashboard frameworks. 
+
+Strong understanding of SQL and database integration. 
+
+Experience in professional code structuring and clean architecture principles. 
+
+Familiarity with handling sensitive or business-critical data. 
+
+Ability to work independently and deliver high-quality results on time. 
+
+ 
+
+Project Details 
+
+Project duration: 4–6 weeks (depending on availability). 
+
+Remote work, flexible hours. 
+
+Clear deliverables with potential for ongoing collaboration after successful MVP finalization. 
+
+ 
+
+ Instructions 
+To apply, please provide: 
+
+A brief summary of your relevant experience. 
+
+Examples of past projects (GitHub link, portfolio, or similar). 
+
+Your expected availability and hourly or project rate. 
+
+(Optional) Any initial thoughts on structuring or improving a Python-based analytics dashboard.","Application","","","","","Web Development","Dashboard","Predictive Model","Data Visualization","Python","","+2","API","Database Architecture","",""
+"5 hours ago","Marketplace  Developer Needed in Vietnam","https://www.upwork.com/jobs/Marketplace-span-class-highlight-Application-span-Developer-Needed-Vietnam_~021917493402898672198/?referrer_url_path=/nx/search/jobs/","Hourly","Expert","Est. time:","More than 6 months, 30+ hrs/week","PLEASE DON'T SEND GENERIC MESSAGE - Include examples of Marketplace/Related work.
+
+
+We are looking for a skilled marketplace  developer based in Vietnam to join our team. The ideal candidate will have experience in building scalable and user-friendly applications for e-commerce platforms. You will be responsible for developing new features, optimizing performance, and ensuring a seamless user experience. Strong knowledge of relevant technologies and frameworks is essential. If you are passionate about creating impactful applications and enjoy working in a dynamic team environment, we would love to hear from you!","application","","","","","Web Application","React","Full-Stack Development","AngularJS","Adobe Photoshop","Amazon Web Services","+7","","","Application",""
+"5 hours ago","Full Stack Developer for Crypto Wallet (Fireblocks API & Ton Blockchain Expert)","https://www.upwork.com/jobs/Full-Stack-Developer-for-Crypto-Wallet-Fireblocks-API-Ton-Blockchain-Expert_~021917490607586529450/?referrer_url_path=/nx/search/jobs/","Fixed price","Expert","Est. budget:","$1,500.00","Job Title: Full Stack Developer – Crypto Wallet Development**
+
+**Position Summary:**
+We are looking for a Full Stack Developer to lead the development of our fintech platform’s backend and frontend. The ideal candidate will have a solid background in 3 technologies, fintech applications, and API integrations, particularly with Fireblocks for custodial wallets and staking services.
+
+**Key Responsibilities:**
+- Develop and manage a Next.js (React)   and integrate it with mobile APIs.
+- Design and build the backend using Node.js (NestJS preferred) to facilitate wallet operations, staking, and transaction processing.
+- Integrate the Fireblocks API to enable custodial wallet features and staking capabilities.
+- Create RESTful and 3 APIs to ensure secure data communication.
+- Work closely with UI/UX designers to implement intuitive front-end components.
+- Optimize  performance while adhering to security best practices.
+- Collaborate with TON blockchain engineers to incorporate smart contract functionalities.
+- Implement user authentication mechanisms (OAuth, JWT, 3 login when applicable).
+- Write clean, maintainable, and scalable code while ensuring thorough documentation.
+
+
+**Qualifications:**
+- Minimum of 3 years of experience in Full Stack Development.
+- Proficient in frontend technologies including React (Next.js) and CSS frameworks like TailwindCSS.
+- Strong backend development skills in Node.js (NestJS/Express), with experience in PostgreSQL and Firebase.
+- Expertise in API development, including RESTful APIs, Sockets, and familiarity with the Fireblocks API or similar crypto custody solutions.
+- Experience with TON blockchain, particularly in crypto payments, staking, or wallet developments is advantageous.
+- Understanding of security practices, including encryption, authentication (OAuth, JWT), and anti-fraud strategies.
+- Familiarity with testing and deployment tools, CI/CD pipelines, Docker, and cloud platforms such as MS Azure or Cloudmania
+
+
+**Preferred Qualifications (Bonus Skills):**
+- Experience in developing TON Blockchain Mini Apps.
+- Background in fintech, cryptocurrency, or DeFi platforms utilizing the TON blockchain.
+- Knowledge of AML and KYC compliance processes within the fintech sector.","Web","web","application","Web","application","","API","API Integration","Node.js","JavaScript","","","","","","Web"
+"5 hours ago","Technical Lead","https://www.upwork.com/jobs/Technical-Lead_~021917488746119208167/?referrer_url_path=/nx/search/jobs/","Hourly","Intermediate","Est. time:","Less than 1 month, Less than 30 hrs/week","Company Overview
+We are a dynamic and innovative company, passionate about developing cutting-edge online solutions that make life easier. Currently, we're hiring for SocialNest, which is at the forefront of the social media growth industry, helping businesses and individuals amplify their digital presence on platforms like Instagram and TikTok.Job Description
+We are seeking an experienced and highly skilled Technical Lead to oversee and guide our backend and frontend development teams. The ideal candidate will possess advanced technical expertise in PHP, NodeJs, frontend technologies, and a solid understanding of full-stack development. This role demands a visionary leader capable of architecting scalable solutions, mentoring team members, and ensuring the delivery of high-quality, robust software solutions.
+
+
+Responsibilities
+Collaborate closely with CTO and other stakeholders to align technical solutions with business goals.
+Lead a cross-functional development team, mentoring both backend and frontend developers and providing technical direction.
+Ensure best practices in code quality, including writing unit tests, conducting code reviews, and optimizing for performance.
+Architect and implement complex systems using Symfony, NodeJs, leveraging microservices architecture to ensure scalability and fault tolerance.
+Design and manage microservices communication via message brokers like RabbitMQ and Apache Kafka, ensuring reliable, asynchronous service interactions.
+Develop and manage containerized applications using Docker and orchestrate containers using Kubernetes to ensure scalable, resilient microservices.
+Oversee the integration and management of databases, including MySQL, PostgreSQL, and MongoDB.
+Optimize the frontend experience using JavaScript, SASS, and modern frontend best practices to deliver a cohesive user interface.
+Utilize data analytics tools, such as Google Analytics and Datalayer events, for data-driven decision-making.
+Optionally, leverage Python for advanced scripting and data integration tasks across the platform.
+
+
+Requirements
+
+
+Proven experience as a Technical Lead or Senior Developer with leadership responsibilities.
+Expert knowledge of PHP, with extensive experience in the Symfony framework.
+Expert knowledge of NodeJs, with extensive experience NextJs.
+Strong proficiency in frontend technologies, including JavaScript and SASS.
+Deep understanding of database systems, including MySQL, PostgreSQL, and MongoDB.
+Experience with microservices architecture and containerization using Docker.
+Strong proficiency in microservices architecture, including designing, implementing, and scaling services using message brokers like RabbitMQ and Kafka.
+Strong understanding of CI/CD pipelines.
+Knowledge of API gateways and service discovery
+Strong analytical and problem-solving skills, with a data-driven approach.
+Excellent communication skills, with the ability to articulate technical concepts to non-technical stakeholders.
+Demonstrated ability to lead and inspire a development team.
+Optional: Experience with Python for scripting and data integration.
+Familiarity with WordPress and Node.js for specific integration tasks..
+
+
+Benefits and Perks
+Competitive salary package with performance-based bonuses.
+Comprehensive health insurance coverage.
+Opportunities for professional development and training.
+A dynamic and supportive work environment.
+Beyond 30+ days of paid leave in addition to honeymoons, paternity/maternity, and more.","","","","","","Web Development","Symfony","SaaS","PostgreSQL","SaaS Development","Web Application","+9","","","",""
+"6 hours ago","AI Cold DM & Appointment Setter for SaaS MVP","https://www.upwork.com/jobs/Cold-Appointment-Setter-for-SaaS-MVP_~021917486153781215183/?referrer_url_path=/nx/search/jobs/","Hourly: $20.00 - $40.00","Intermediate","Est. time:","1 to 3 months, 30+ hrs/week","We are seeking a skilled AI Cold DM and Appointment Setter to help drive engagement for our SaaS MVP. The ideal candidate will leverage AI tools to craft compelling direct messages and set appointments with potential clients. Your ability to identify and connect with the right audience is crucial. We are looking for someone who can work independently, manage outreach campaigns, and report on results effectively. If you have experience in sales outreach and a passion for technology, we’d love to hear from you!","","","","","","Web Application","AI App Development","AI Agent Development","Full-Stack Development","API Development","","","","","",""
+"6 hours ago","and Mobile  Development","https://www.upwork.com/jobs/span-class-highlight-Web-span-and-Mobile-span-class-highlight-Application-span-Development_~021917480525424896582/?referrer_url_path=/nx/search/jobs/","Fixed price","Expert","Est. budget:","$300.00","We are seeking a skilled developer to create a responsive  and mobile applications for both iOS and Android platforms. The ideal candidate should have experience in full-stack development, as well as proficiency in mobile app development. You will be responsible for designing the user interface, integrating APIs, and ensuring seamless functionality across devices. If you have a track record of delivering high-quality applications and , we want to hear from you!","website","websites","","","","Web Development","JavaScript","PHP","Android","CSS","","","","","Web","Application"
+"6 hours ago","ASP.NET  Developer Needed","https://www.upwork.com/jobs/ASP-NET-span-class-highlight-Application-span-Developer-Needed_~021917477617763137269/?referrer_url_path=/nx/search/jobs/","Hourly","Intermediate","Est. time:","1 to 3 months, 30+ hrs/week","We are seeking an experienced ASP.NET  Developer to help us build and maintain  applications. The ideal candidate will have a strong understanding of ASP.NET technologies and frameworks, with a proven track record of delivering high-quality code on time. You will collaborate with our team to design, implement, and troubleshoot applications, ensuring optimal performance and user experience. If you are passionate about creating robust  solutions and enjoy working in an agile environment, we'd love to hear from you!","Application","web","web","","","","ASP.NET",".NET Framework","C#","ASP.NET MVC","","","API","VB.NET","Application",""
+"6 hours ago","QA Tester Needed for  App Testing","https://www.upwork.com/jobs/Tester-Needed-for-span-class-highlight-Web-span-App-Testing_~021917477493529590512/?referrer_url_path=/nx/search/jobs/","Hourly: $10.00 - $18.00","Intermediate","Est. time:","1 to 3 months, Less than 30 hrs/week","We are seeking a meticulous QA tester to evaluate our new  . Your primary responsibility will be to identify and document any issues and suggest improvements to enhance user experience. The ideal candidate will have a keen eye for detail and a passion for quality assurance. You will work closely with our development team to ensure a smooth launch. If you are experienced in  app testing and have a solid understanding of QA best practices, we would love to hear from you!
+
+Kick off call need to be late as client is in Canada","web","application","web","","","Web Testing","Bug Reports","Software QA","Functional Testing","Mobile App Testing","","","","","Web",""
+"6 hours ago","Full Stack Developer (Node.js + React) to Finalize CRM SaaS for Launch","https://www.upwork.com/jobs/Full-Stack-Developer-Node-React-Finalize-CRM-SaaS-for-Launch_~021917475385168010471/?referrer_url_path=/nx/search/jobs/","Hourly: $25.00 - $25.00","Expert","Est. time:","1 to 3 months, Less than 30 hrs/week","We are launching a CRM SaaS platform focused on sales and marketing teams across Australia and the Middle East. The system is already functional, built in Node.js (Express) and React.js, and we’re now looking for a developer to finalize, secure, and enhance the platform for a proper commercial rollout.
+
+🔧 Tech Stack:
+Backend: Node.js, Express.js, Sequelize ORM, PostgreSQL (or MySQL)
+
+Frontend: React.js (with CSS Modules or SCSS)
+
+Authentication: JWT, bcrypt
+
+Deployment: Manual (would like to move toward Docker + CI/CD)
+
+🚀 Your Role:
+We need you to help us:
+
+✅ Add rate limiting and input validation (security upgrades)
+
+✅ Improve mobile responsiveness (some UI squishes on small screens)
+
+✅ Refactor for multi-tenant support (separate data per client/org)
+
+✅ Integrate Stripe subscriptions for SaaS billing
+
+✅ Create a simple white-label config system (logo/colors/themes)
+
+✅ (Optional) Set up Docker & deployment automation
+
+✅ Requirements:
+Strong experience with Node.js and React.js
+
+Familiarity with Stripe or SaaS billing platforms
+
+Good understanding of REST APIs, auth, and secure coding practices
+
+Can write clean, modular, well-commented code
+
+Bonus: Experience working on CRM or SaaS tools
+
+🧠 Why This Project?
+We’re serious about launching a quality product — and we want the right developer to make it a success. You’ll be working closely with the founder and given detailed audits and technical breakdowns of what needs to be done. We’re open to your input and want you to treat the project like your own.
+
+💼 Project Type:
+Short-term (2–4 weeks) to complete upgrades
+
+Option for ongoing work after launch with our project management software next.
+
+Fully remote
+
+💰 Budget:
+Open to hourly or milestone-based fixed pricing
+
+Please include your preferred rate in your proposal
+
+🔗 To Apply:
+Please send:
+
+A short intro on your experience with SaaS or CRMs
+
+Links to any relevant projects
+
+Your GitHub profile or code samples (if available)
+
+Your proposed rate and availability","","","","","","Web Application","AI Agent Development","Full-Stack Development","Payment Gateway Integration","Java","","+4","React","","",""
+"6 hours ago","UX/UI Designer Needed for Dashboard System","https://www.upwork.com/jobs/Designer-Needed-for-Dashboard-System_~021917474635337433039/?referrer_url_path=/nx/search/jobs/","Fixed price","Intermediate","Est. budget:","$200.00","We are seeking a UX/UI Designer to enhance our dashboard system. The ideal candidate will have a passion for creating intuitive user experiences. Proficiency in design tools like Figma or Adobe XD is essential. If you're ready to make an impact with your design expertise, we'd love to see your !
+
+Pages we need:
+- Dashboard page
+- Appointments page
+- Patients List page
+- Patient module forms for adding medical records (page)
+- Billing page","application","","","","","Web Design","User Interface Design","Wireframing","Responsive Design","Software Design","","","","","",""
+"6 hours ago","Bubble Developer Needed to Build MVP for Online Course Marketplace (Russian-speaking)","https://www.upwork.com/jobs/Bubble-Developer-Needed-Build-MVP-for-Online-Course-Marketplace-Russian-speaking_~021917473720408461482/?referrer_url_path=/nx/search/jobs/","Fixed price","Intermediate","Est. budget:","$1,000.00","📝 Job Description:
+We are building an online course marketplace for Kazakhstan, similar to Udemy, tailored for local creators and learners. We've purchased the Learnify Bubble template and now need a skilled Bubble developer to help us launch a polished MVP within 3–4 weeks.
+
+🔧 Key Responsibilities:
+Customize the Learnify template to fit our branding and user flow
+
+Implement core features:
+
+Course creation, video hosting, quizzes, certificates
+
+Homework/file upload by students
+
+Instructor dashboards
+
+Student progress tracking
+
+Search & filter system
+
+Configure local payment systems:
+
+Card payments
+
+Kaspi Pay (by order number or redirect)
+
+Google Pay (if possible)
+
+Set up multi-language support (Kazakh, Russian, English)
+
+Integrate or simulate live lesson functionality (Zoom, Jitsi, etc.)
+
+Connect an AI assistant (ChatGPT) for answering student questions
+
+Ensure full responsiveness (desktop, tablet, mobile)
+
+✅ Ideal Candidate:
+Strong Bubble.io experience (MVPs, templates, custom workflows)
+
+Prior experience with marketplace or education platforms
+
+Able to work fast and communicate clearly
+
+Knows how to integrate local payments/APIs or simulate them for MVP
+
+Bonus: Familiar with AI tools (OpenAI API), UX for student platforms
+
+💼 Project Scope:
+Timeline: 3–4 weeks
+
+Budget: $1,000–$1,200 for MVP
+
+Long-term potential: Ongoing support, new features, scaling
+
+🎯 To Apply:
+Please share:
+
+Your best Bubble project (especially marketplaces or learning apps)
+
+Experience with payment integrations (especially localized ones)
+
+Estimated timeline to launch MVP with above features","","","","","","Web Application Development","Responsive Design","API Integration","Bubble.io","","Web Design","+3","","","",""
+"7 hours ago","Property Management and Listing   Development","https://www.upwork.com/jobs/Property-Management-and-Listing-span-class-highlight-Web-span-span-class-highlight-Application-span-Development_~021917471020831782645/?referrer_url_path=/nx/search/jobs/","Fixed price","Intermediate","Est. budget:","$100.00","We are seeking an experienced developer to create a comprehensive property management and listing  . The ideal candidate will have a strong background in  development and familiarity with property management solutions. The project involves designing user-friendly interfaces, implementing database functionalities, and ensuring scalability for future enhancements. Your expertise will be crucial in delivering a robust platform that meets our needs. If you have a passion for creating innovative solutions and a proven track record in similar projects, we would love to hear from you.","web","application","web","","","Web Development","HTML","PHP","Data Entry","","Web Design","","","","Web","Application"
+"7 hours ago","UX Designer Needed for Fintech Demo App (Startup Project – FinE Sol)","https://www.upwork.com/jobs/Designer-Needed-for-Fintech-Demo-App-Startup-Project-FinE-Sol_~021917469671227379882/?referrer_url_path=/nx/search/jobs/","Fixed price","Intermediate","Est. budget:","$80.00","We are a fintech startup building FinE Sol, a smart financial solution platform aimed at simplifying access to financial insights and services. We’re currently working on a demo version of the  that showcases limited but important data and functionality — this will serve as the foundation for a fully functional  app in the near future.
+
+We are looking for a creative and detail-oriented UX Designer who can help us design an intuitive and engaging user experience for this demo version, focusing on usability, flow, and clarity.
+
+Project Scope:
+
+Design the user experience for a fintech  app demo
+
+Translate business goals and user needs into seamless UX flows
+
+Create wireframes, user journeys, and high-level prototypes for a data-driven interface
+
+Collaborate with our team to refine ideas and prioritize usability
+
+Consider scalability and future integration of full financial features in the design
+
+Key Features in the Demo:
+
+Dashboard view with sample financial data
+
+Data insights or summary widgets
+
+Navigation to simulate future account/services pages
+
+Simple, elegant, and user-focused design
+
+Ideal Candidate:
+
+Experience designing financial, SaaS, or data-heavy applications
+
+Strong UX research and wireframing skills
+
+Portfolio showcasing clean, thoughtful UX design work
+
+Proficient in tools like Figma, Adobe XD, or Sketch
+
+Ability to balance simplicity with functional clarity
+
+Bonus: Knowledge of Fintech trends or experience with finance platforms
+
+Project Type:
+One-time project (with long-term potential as we scale)
+
+Timeline:
+We’re looking to complete the demo within the next 2–3 weeks
+
+Budget:
+Negotiable based on experience – please include your rate and estimated timeline in your proposal.
+
+To Apply:
+Please share your:
+
+Portfolio (especially any fintech or dashboard projects)
+
+Short note about why you're a good fit for FinE Sol
+
+Estimated time to complete the UX design for a 3–4 screen demo
+
+We’re excited to collaborate with a designer who understands the importance of simplicity and trust in fintech design. Help us build the future of finance, one great experience at a time.","application","web","web","","","Web Design","Prototyping","Mobile App Design","Graphic Design","Mockup","","+3","Wireframing","User Flow","",""
+"7 hours ago","PHP Software Developer for Transport Management Software","https://www.upwork.com/jobs/PHP-Software-Developer-for-Transport-Management-Software_~021917465925141830887/?referrer_url_path=/nx/search/jobs/","Fixed price","Intermediate","Est. budget:","$470.00","We are seeking a skilled PHP software developer to assist in enhancing our Transport Management System (TMS). Your expertise will be instrumental in taking our software to the next level, ensuring it meets the evolving needs of the transport industry. If you have a passion for problem-solving and a proven track record in PHP development, we'd love to hear from you. Join us in creating a robust and efficient TMS that streamlines transport operations.","","","","","","Web Application","PHP","API","MySQL","JavaScript","","","","","",""
+"7 hours ago","E-commerce Management System With Dashboard and  and Mobile","https://www.upwork.com/jobs/commerce-Management-System-With-Dashboard-and-span-class-highlight-Web-span-and-Mobile-span-class-highlight-application-span_~021917465771858722767/?referrer_url_path=/nx/search/jobs/","Fixed price","Intermediate","Est. budget:","$200.00","Hi Freelancers,
+
+The frontend of the mobile app is ready, there might be small changes that need to be made, 10 to 15% 
+
+We are looking for someone who can develop an E-commerce app and  with a dashboard 
+
+We are not going to stretch the budget. The budget we have given is final. Don't waste your time and our time if you genuinely work; only apply for the project.
+
+
+App is on: Flutter
+Dashboard is on: larval
+Api is on: larval
+Database: MySQL
+
+
+Kindly apply only if you are interested","website","","","","","Web Application","Google Analytics","PHP","Java","Realm Database","Web Development","+2","JavaScript","","Web","application"
+"7 hours ago","PWA Performance Tuning and Development Collaboration","https://www.upwork.com/jobs/PWA-Performance-Tuning-and-Development-Collaboration_~021917465368226340071/?referrer_url_path=/nx/search/jobs/","Hourly: $8.00 - $15.00","Intermediate","Est. time:","1 to 3 months, Less than 30 hrs/week","We are seeking an experienced Progressive   (PWA) developer to enhance the performance of our . The ideal candidate will work closely with our team of developers to identify performance bottlenecks and implement effective solutions. Your expertise will play a crucial role in ensuring the  runs smoothly and efficiently, improving user experience. If you have a strong background in PWA development and performance optimization, we would love to hear from you!","Web","Application","application","application","","","JavaScript","PHP","HTML5","Node.js","","","MongoDB","","",""
+"7 hours ago","Fitness App Development Specifications","https://www.upwork.com/jobs/Fitness-App-Development-Specifications_~021917460803351387367/?referrer_url_path=/nx/search/jobs/","Fixed price","Expert","Est. budget:","$1,600.00","This project involves developing a Windows-based fitness  designed to operate entirely within a local or private network—without requiring any internet connectivity. The core functionality centers around integrating a Bluetooth Low Energy (BLE) digital weight scale to automatically retrieve and store key body composition metrics.
+
+The app will be tailored for desktop environments, specifically targeting secure, offline use cases such as in healthcare centers or corporate wellness facilities. While the initial release is limited to Windows, the architecture will be designed with flexibility to consider future expansions to Android or iOS if needed.
+
+Core Features & Functionality
+BLE Integration: The  will connect with a Bluetooth Low Energy (BLE) enabled smart weight scale. The specific model will be selected based on compatibility with GATT profiles or available SDKs.
+
+Automatic Data Capture: When a user steps on the scale, the device will transmit:
+
+Body Weight
+
+BMI (Body Mass Index)
+
+Body Fat Percentage
+
+Muscle Mass
+
+Other supported metrics (e.g., bone mass, water percentage)
+
+User Profiles & History: Each user will have a profile within the app, with all measurements securely stored in a local database. The system will support historical data tracking and provide visual dashboards (charts, progress indicators).","application","application","","","","ASP.NET Web API","Angular","User Authentication","User Profile Creation","","","","","","",""
+"8 hours ago","Crypto Trading platform - Multi-tenant +  + mobile app","https://www.upwork.com/jobs/Crypto-Trading-platform-Multi-tenant-span-class-highlight-web-span-mobile-app_~021917453388811771111/?referrer_url_path=/nx/search/jobs/","Fixed price","Intermediate","Est. budget:","$20,000.00","We are looking for a skilled developer to create a Crypto Trading platform to include  and mobile apps utilizing React Native, NodeJS, and a PostgreSQL database. The app will need to integrate into crypto currencies for real-time price details as well as provide buy/sell, analytics, and management both for the users and businesses. We will need to UX/UI, backend, front end, administration section, etc. We can also use Open Source to accelerate. 
+
+The ideal candidate should have a strong background in  and mobile app development, the crypto market, and experience in financial applications. If you are passionate about technology and finance / crypto market, we would love to see your ! Please include examples of your previous work in mobile app development.","web","web","application","","","","MongoDB","PostgreSQL","Native App Development","Payment Gateway Integration","","+5","React Native","JavaScript","web",""
+"8 hours ago","Full Stack Developer for   on AWS/GCP","https://www.upwork.com/jobs/Full-Stack-Developer-for-span-class-highlight-Web-span-span-class-highlight-Application-span-AWS-GCP_~021917453330634506191/?referrer_url_path=/nx/search/jobs/","Fixed price","Intermediate","Est. budget:","$250.00","We are seeking an experienced full stack developer to create a   from scratch and deploy it on AWS or GCP. The ideal candidate will have a strong understanding of both front-end and back-end technologies and experience with cloud deployment. We need a end to end   for our startup. Connect with us to get to know full about the project.
+You will be responsible for developing robust  applications using MongoDB, Express.js, React.js, and Node.js. A strong understanding of Docker for containerization and deployment processes is essential. The ideal candidate should be able to manage the full software development lifecycle and collaborate effectively with our team. If you are passionate about building high-quality scalable applications, we want to hear from you!","web","application","web","application","web","Web Application","Payment Gateway Integration","JavaScript","API","Node.js","Amazon Web Services","+1","Python","","Web","Application"
+"8 hours ago","App Developer (React + Python) – AI-Accelerated Build – Flat Rate","https://www.upwork.com/jobs/span-class-highlight-Web-span-App-Developer-React-Python-Accelerated-Build-Flat-Rate_~021917452168270958762/?referrer_url_path=/nx/search/jobs/","Hourly","Intermediate","Est. time:","1 to 3 months, Less than 30 hrs/week","JOB DESCRIPTION:
+
+ I’m looking for an experienced  developer to build a V1 of my . The overall concept is an easy-to-use calendar interface with a lot of drag-and-drop for organizing and re-working one’s calendar to balance personal, family and work activities.
+
+ The design, user flows, and core feature set are already fully developed — I have a detailed Figma project, a workflow/user map, and clear descriptions of the calendaring categories and activities.
+
+WHAT I NEED:
+-Build an initial   (desktop-first; NOT mobile app)
+- Use common frameworks: Suggested: React for frontend, Python (or another strong backend)
+- Leverage AI tools to speed up development (e.g., AI converting Figma to HTML, AI scaffolding, etc.)
+
+DEVOPS HELP:
+- Set up a QA environment
+- Prepare a beta version for external testers
+- Deploy to a basic hosting setup (AWS, GCP, or similar)
+
+KEY REQUIREMENTS:
+- Experience building  applications (not just landing pages)
+- Skilled with React and Python (or similar scalable frameworks)
+- Ability to show real examples of where you've used AI tools to speed up development for recent work - ability to show previous work examples of easy-to-use drag-and-drop interface
+- FLAT RATE pricing for the whole project
+- Can work relatively independently with clear specs
+- Strong technical skills — this is not just ""no-code"" work
+
+BONUS:
+- Experience setting up basic DevOps pipelines for startups (QA and Beta environments)
+- Good communication and availability for occasional calls
+
+TIMELINE:
+- Target: 3 weeks to MVP completion
+
+WHEN APPLYING, PLEASE INCLUDE:
+1. A few examples of  apps you've built (especially using React + Python)
+2. Examples where you used AI to assist coding (please explain how it helped and time saved)
+3. A rough confirmation that the 3-week timeline is realistic for you, and when you would be available to start
+
+ADDITIONAL MATERIALS I WILL PROVIDE:
+- Complete Figma designs
+- Full workflow (user map)
+- Core category and activity descriptions
+
+OTHER NOTES:
+- Jurisdiction/location flexible — just need strong communication and quality work
+- I have a consultant available to help me evaluate technical candidates if needed","web","application","web","application","web","Web Application","React","Python","","","Web Development","","","","Web","web"
