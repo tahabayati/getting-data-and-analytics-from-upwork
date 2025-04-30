@@ -1,0 +1,195 @@
+Skill,Freelancer Count,Employer Count,Total
+Python,9,42,51
+Data Scraping,8,35,43
+Data Mining,7,15,22
+Scrapy,8,10,18
+Automation,10,7,17
+Data Extraction,8,8,16
+Selenium,8,8,16
+Web Scraping,6,9,15
+JavaScript,6,8,14
+API Integration,9,5,14
+Web Crawling,7,6,13
+Microsoft Excel,5,5,10
+Scripting,8,2,10
+Google Sheets,7,1,8
+API,2,5,7
+Data Entry,1,6,7
+Node.js,4,2,6
+Google Sheets Automation,6,0,6
+Python Script,4,2,6
+JSON,5,1,6
+PHP,1,5,6
+Make.com,5,0,5
+pandas,1,4,5
+Task Automation,5,0,5
+Spreadsheet Automation,5,0,5
+Zapier,5,0,5
+Google Docs,5,0,5
+Google Apps Script,5,0,5
+Python-Requests,4,0,4
+Business Process Automation,3,1,4
+Airtable,3,1,4
+React,2,2,4
+HTML,2,2,4
+Django,1,3,4
+Automation Anywhere,4,0,4
+Selenium WebDriver,3,1,4
+Bash,3,0,3
+Web Application Development,3,0,3
+Lead Generation,1,2,3
+Flask,2,1,3
+Screen Scraping,1,2,3
+Artificial Intelligence,0,3,3
+SQL,2,1,3
+Machine Learning,0,3,3
++6,0,3,3
+Dashboard,3,0,3
+Regex Writing,1,2,3
+PostgreSQL,0,3,3
+CSV,1,2,3
+CSS,0,2,2
+Robotic Process Automation,2,0,2
+37,2,0,2
+Web Application,0,2,2
+Database Integration,2,0,2
+TypeScript,2,0,2
+Pipedrive,2,0,2
+Git,0,2,2
+API Development,1,1,2
+Bot Development,2,0,2
+Salesforce,2,0,2
++3,0,2,2
+CRM Automation,2,0,2
+Object-Oriented Programming,1,1,2
++2,0,2,2
+C#,1,1,2
+Notion,2,0,2
+Data Visualization,2,0,2
+C++,1,1,2
+n8n,2,0,2
+Trading Automation,2,0,2
+Natural Language Processing,0,2,2
+Google Workspace,2,0,2
+List Building,0,2,2
+Automated Testing,2,0,2
+Desktop Application,2,0,2
++1,0,2,2
+Next.js,2,0,2
+AI Builder,2,0,2
+ETL,2,0,2
++9,0,2,2
+Web Development,1,1,2
+Macro Programming,2,0,2
+ClickUp,2,0,2
+Salesforce CRM,2,0,2
+Google Cloud Platform,1,1,2
+5,1,0,1
+11,1,0,1
+15,1,0,1
+LangChain,1,0,1
+English,1,0,1
+23,1,0,1
+Twilio API,0,1,1
+26,1,0,1
+PostgreSQL Programming,0,1,1
+30,1,0,1
+33,1,0,1
+Google Maps API,1,0,1
+Spreadsheet Macros,1,0,1
+Email Automation,1,0,1
+PyQt,0,1,1
+Cloud Implementation,1,0,1
+GeoJSON,1,0,1
+60,1,0,1
+Python Asyncio,1,0,1
+AppleScript,1,0,1
+Amazon Web Services,1,0,1
+Microsoft Windows PowerShell,1,0,1
+Beauty,0,1,1
+Splunk,1,0,1
+Asana,1,0,1
+Video Editing,0,1,1
+Data Engineering,1,0,1
+Photo Editing,1,0,1
+Data Integration,0,1,1
+Visual Basic for Applications,1,0,1
+Adobe Premiere Pro,0,1,1
+ConvertKit,1,0,1
+Server Upload,1,0,1
+Trello,1,0,1
+Video Editing & Production,1,0,1
+Amazon S3,1,0,1
+Java,0,1,1
+Visualization,1,0,1
+Microsoft Power Automate,1,0,1
+BigQuery,0,1,1
+Server Administration,1,0,1
+OpenAI API,1,0,1
+GitHub,1,0,1
+Customer Relationship Management,1,0,1
+Data Cleaning,0,1,1
+Contact List,0,1,1
+Docker,0,1,1
+Marketing Automation,1,0,1
+Microservice,0,1,1
+Reverse Engineering,1,0,1
+GPT API,0,1,1
+Ruby,1,0,1
+RESTful API,1,0,1
+Content Writing,0,1,1
+Video Processing,0,1,1
+Chatbot Development,1,0,1
+Retrieval Augmented Generation,1,0,1
+Zoho CRM,1,0,1
+Data Modeling,1,0,1
+Grafana,1,0,1
+ActionScript,1,0,1
+Data Annotation,1,0,1
+Microsoft VBScript,1,0,1
+Data Science,1,0,1
+Video Design,0,1,1
+Data Structures,1,0,1
+Explainer Video,0,1,1
+Copywriting,0,1,1
+Version Control,1,0,1
++5,0,1,1
+React Native,1,0,1
+JupyterLab,0,1,1
++8,0,1,1
+AI Chatbot,1,0,1
+Matplotlib,1,0,1
+AI Trading,1,0,1
+Wireshark,1,0,1
+Automated Workflow,1,0,1
+JSON API,1,0,1
+Query Development,1,0,1
+Mapbox,1,0,1
+.NET Framework,0,1,1
+Online Research,0,1,1
+Translation,1,0,1
+Browser Automation,1,0,1
+Data Analytics,1,0,1
+WordPress Customization,1,0,1
++4,0,1,1
+Mailchimp,1,0,1
+Video Production,0,1,1
+Forex Trading,1,0,1
+Software Integration,1,0,1
+ActiveCampaign,1,0,1
+LLM Prompt Engineering,1,0,1
+Looker Studio,1,0,1
+ChatGPT API Integration,1,0,1
+HubSpot,1,0,1
+Arabic,1,0,1
+Automated Monitoring,1,0,1
+MQL 5,0,1,1
+Firebase,1,0,1
+Python Pillow,1,0,1
+Shopify,0,1,1
+Web Scraping Software,1,0,1
+Jira,1,0,1
+Cloud Management,1,0,1
+Google Forms,1,0,1
+HTTP,1,0,1
+Google APIs,1,0,1
