@@ -17,6 +17,7 @@ class UpworkDataProcessor:
         self._ensure_directories()
         plt.style.use('default')
         sns.set_theme()
+        self.title_keywords = [word.lower().strip() for word in chart_title.split()]
 
     def _ensure_directories(self):
         self.result_dir.mkdir(exist_ok=True)
@@ -34,15 +35,19 @@ class UpworkDataProcessor:
         try:
             df = pd.read_csv(csv_file_path)
             token_columns = [col for col in df.columns if 'air3-token' in col]
-            highlight_column = [col for col in df.columns if col == 'highlight']
-            all_columns = token_columns + highlight_column
+            highlight_columns = [col for col in df.columns if col in ['highlight', 'highlight-color']]
+            all_columns = token_columns + highlight_columns
             
             for column in all_columns:
                 skills = df[column].dropna().values
+                filtered_skills = [
+                    skill for skill in skills 
+                    if not any(keyword in str(skill).lower() for keyword in self.title_keywords)
+                ]
                 if is_freelancer:
-                    self.freelancer_skills.update(skills)
+                    self.freelancer_skills.update(filtered_skills)
                 else:
-                    self.employer_skills.update(skills)
+                    self.employer_skills.update(filtered_skills)
         except Exception:
             pass
 

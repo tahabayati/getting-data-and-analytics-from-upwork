@@ -1,0 +1,841 @@
+"text-light 2","air3-link","air3-link href","job-tile-info-list","job-tile-info-list 2","mr-1","job-tile-info-list 3","mb-0","highlight-color","air3-token","air3-token 2","air3-token 3","air3-token 4","air3-token 5","air3-token 6","highlight"
+"6 hours ago","Social Media Scraper","https://www.upwork.com/jobs/Social-Media-Scraper_~021917432846147434229/?referrer_url_path=/nx/search/jobs/","Hourly","Intermediate","Est. time:","Less than 1 month, Less than 30 hrs/week","I need someone to create a simple bio data scraper for social media platforms. There are two platforms I will provide more context on the platforms and what is exactly needed after you contact me.","Python","Data Extraction","Web Scraping","Web Crawling","Selenium WebDriver","Selenium","Data Scraping",""
+"6 hours ago","Scrapping + app development","https://www.upwork.com/jobs/Scrapping-app-development_~021917430546949876294/?referrer_url_path=/nx/search/jobs/","Hourly","Expert","Est. time:","1 to 3 months, Less than 30 hrs/week","we are looking for proposal to finish our platform.
+our platform will be similar to yelp but for specific industry professionals as well as general population. 
+we will need to develop our internal master database from scrapped data from multiple platforms.  data scrapped from each platform must be curated, validated, and merged prior to being brough into our platform.  categorization of every company correctly is the key to success for our platform.
+for data scrapping we need an expert as some of the platform we have to scrap will consist challenging walls.
+would love to hear your experience on AI as we're looking for industry leading AI expert to implement AI in our datascrapping as well as data cleaning and merging.
+you will also help with app/website UI design.
+company listed on our master database will be able to create pro plan to modify their company information.
+we have already scrapped two platforms so far.
+when submitting proposal, please provide app you have developed that is similar to above mentioned platform along with data points.  
+your proposal shall contain scope that is included. breakdown per each scope as much as feasible and estimated timeline.
+success of this app will lead to second platform development which is in pre-planning stage.
+we look forward to getting your serious proposal.","","Data Scraping","Desktop Application","","","","",""
+"6 hours ago","Substack user crawler","https://www.upwork.com/jobs/Substack-user-crawler_~021917429421095565045/?referrer_url_path=/nx/search/jobs/","Fixed price","Intermediate","Est. budget:","$100.00","We need a script that can find all user profiles on Substack. The script should be written in  and should allow us to extract:
+
+Their user handle
+Associated publications
+Follower/subscriber counts
+Biography
+
+This should be a relatively straightforward job and will be spot checked for completion by looking at whether it has found a random set of users.","Python","Web Crawling","","","","","","Python"
+"6 hours ago","AI Developer Needed for Sports Video Highlight Detection (, OpenCV, FFmpeg)","https://www.upwork.com/jobs/Developer-Needed-for-Sports-Video-Highlight-Detection-span-class-highlight-Python-span-OpenCV-FFmpeg_~021917427440206741455/?referrer_url_path=/nx/search/jobs/","Fixed price","Intermediate","Est. budget:","$1,600.00","We’re developing an AI-powered web platform that processes long-form sports videos to detect key actions and generate highlight reels. We’re looking for a contract-based AI Developer with proven experience in video processing, computer vision, and AI model integration.
+
+Responsibilities:
+
+Use OpenCV (or similar) to analyze full-length MP4 videos
+Detect key moments (e.g., fast motion, scene changes, player actions)
+Output structured timestamp data in JSON format
+Extract video clips using FFmpeg or OpenCV
+(Optional) Use a pretrained model (YOLO, SlowFast, etc.) to improve detection
+Ideal Skills:
+
+, OpenCV, FFmpeg
+PyTorch or TensorFlow
+Experience with video classification or action recognition
+Familiarity with sports or motion-heavy video footage
+Deliverables:
+
+ code and structured JSON output
+Sample test video processed with timestamps or highlight clips
+Short readme with explanation
+Project Scope:
+
+Timeline: 2–4 weeks
+Estimated hours: 20–40 total","Python","TensorFlow","AI Development","PyTorch","LangChain","Machine Learning","","Python"
+"6 hours ago","Android Profesional Scraper - Advanced","https://www.upwork.com/jobs/Android-Profesional-Scraper-Advanced_~021917422748632521959/?referrer_url_path=/nx/search/jobs/","Fixed price","Expert","Est. budget:","$60.00","We are looking for an Android reverse engineering expert to help us understand and overcome compatibility issues when attempting to access the TipsterLand app from a rooted BlueStacks emulator (Windows). Our goal is to ensure consistent access from this environment for research and data automation purposes, strictly in accordance with fair use and relevant policies.
+
+The app appears to apply several compatibility checks that prevent normal operation in our setup:
+
+Environment Checks: The app detects emulator/rooted environments and prevents login.
+
+Device Integrity: Likely using services such as Firebase App Check or Google's Play Integrity API.
+
+Network Conditions: VPNs have shown partial improvements but are not a full solution.
+
+Our Current Progress:
+We have applied basic runtime modifications (e.g., adjusting system properties) with limited success.
+
+We believe the main blocker is related to device validation against Google APIs.
+
+What We Need:
+Technical Analysis: Examine app behavior and identify which mechanisms are preventing access in our controlled environment.
+
+Solution Proposal: Recommend safe and compliant technical strategies to enhance compatibility, including script-based configuration or emulator adjustments.
+
+Implementation Guidance: Provide a repeatable solution or documented instructions.
+
+Desired Skills:
+Android reverse engineering (JADX, Ghidra, etc.)
+
+Runtime instrumentation (e.g., Frida)
+
+Experience with emulator environments (BlueStacks preferred)
+
+Familiarity with Android system properties and environment detection
+
+Understanding of Firebase App Check and Play Integrity behavior
+
+Deliverables:
+A script or set of configurations that allow login on emulator for testing purposes
+
+A summary of key findings and instructions","Python","Java","JavaScript","API","Data Scraping","Android","PHP",""
+"6 hours ago","AI Specialist for Patient Acquisition Optimization","https://www.upwork.com/jobs/Specialist-for-Patient-Acquisition-Optimization_~021917421886837929717/?referrer_url_path=/nx/search/jobs/","Hourly: $19.00 - $40.00","Expert","Est. time:","1 to 3 months, Less than 30 hrs/week","We are building an advanced, AI-powered engine to optimize every stage of dental patient acquisition via a clearly defined formula (Conversions = Traffic × Visibility & Trust × Referrals × Website Conversion × Scheduling Efficiency). We are looking for a collaborative AI specialist to help design, develop, and integrate custom AI agents for each component of our system.
+
+Project Goals:
+
+- Develop and launch a suite of AI agents:
+
+  - Traffic Optimizer
+  - Visibility & Trust Agent
+  - Referral Flow Agent
+  - Website Conversion Agent
+  - Scheduling Efficiency Agent
+  - Patient Acquisition Supervisor AI (PASAI)
+  - Integrate agents with Monday.com, Slack, Databox, Klaviyo, GA4, and other analytics tools.
+  - Ensure seamless, real-time decision-making and automation across the entire patient journey funnel.
+
+Responsibilities:
+
+- Collaborate to define each agent’s core KPIs, logic, and input/output requirements.
+- Architect and build AI agents using best-in-class frameworks (OpenAI, LangChain, API integrations, etc.).
+- Ensure reliable integration with existing SaaS tools and analytics platforms.
+- Create scalable processes and automation pipelines for data-driven optimization.
+- Set up robust monitoring, logging, and feedback loops for continuous improvement.
+- Document code/scripts and provide operational training to our team.
+
+You’re a great fit if you:
+
+- Have built or deployed custom AI agents/bots (ideally for marketing, SEO, lead generation, or healthcare settings).
+- Are comfortable with prompt engineering, workflow automation, and SaaS integrations.
+- Have experience with dental, orthodontic, or healthcare-related digital systems (preferred).
+- Can translate business goals and data into effective, autonomous agent behavior.
+- Communicate clearly and are comfortable collaborating with non-technical stakeholders.
+
+Skills Required:
+
+- AI/ML engineering (, prompt engineering, OpenAI/LLMs)
+- RPA, workflow automation (Zapier, APIs, Monday.com automations)
+- SaaS and analytics tool integrations (Slack, Klaviyo, Databox, GA4, etc.)
+- Digital marketing analytics, conversion optimization
+- Healthcare/dental vertical experience (a plus)
+- Documentation & onboarding best practices
+
+Project Type:
+
+Phase 1: System architecture and initial agent development.
+
+Phase 2: Ongoing work to refine, monitor, and scale agents.
+
+To Apply:
+
+Please provide:
+
+1. Detailed examples of previous AI/automation projects you have built, especially those involving LLMs, multiple integrations, or agent-like behavior.
+2. An overview of your technical skills relevant to this project (languages, frameworks, platforms).
+3. Your initial thoughts on how you might approach building the first agent (e.g., the AI Data Analyst interacting with GA4 and Databox).
+4. Your availability and hourly rate.","","Lead Generation","Sales","Machine Learning","Artificial Intelligence","Data Analysis","","Python"
+"6 hours ago","Cloud Engineer","https://www.upwork.com/jobs/Cloud-Engineer_~021917419408487600298/?referrer_url_path=/nx/search/jobs/","Hourly: $17.00 - $23.00","Intermediate","Est. time:","1 to 3 months, Less than 30 hrs/week","Looking for DigitalOcean, Amazon AWS Cloud Server engineers with MongoDB expertise. 
+
+Please explain how you are proficient in this tack stack and how you could help build an environment with all the security features.","","DigitalOcean","MongoDB","Amazon Web Services","","","",""
+"7 hours ago","Senior NetApp Storage Engineer","https://www.upwork.com/jobs/Senior-NetApp-Storage-Engineer_~021917418382502121642/?referrer_url_path=/nx/search/jobs/","Hourly","Expert","Est. time:","3 to 6 months, Less than 30 hrs/week","We are seeking a Senior NetApp Engineer to design, implement, and manage enterprise-grade NetApp storage solutions for our fast-paced sports marketing organization. This is a critical role within our IT infrastructure team, supporting high-performance data operations across the business.
+
+Key Responsibilities:
+- Design and architect NetApp ONTAP storage systems to support enterprise workloads.
+- Manage and optimize NetApp data protection tools, including SnapMirror, SnapVault, SnapLock, SnapCenter, and BlueXP.
+- Administer and maintain storage networking technologies such as Fibre Channel (FC) and iSCSI, along with file protocols including NFS and CIFS/SMB.
+- Provide expert troubleshooting, performance tuning, and capacity planning.
+
+Qualifications:
+- 5+ years of experience in enterprise storage architecture and administration with NetApp ONTAP.
+- Strong knowledge of NetApp data protection tools and storage protocols.
+- Experience in hybrid storage environments (on-premises and cloud).
+- Excellent problem-solving and communication skills.
+
+Join a passionate team working at the intersection of technology and sports. We offer competitive compensation, benefits, and a collaborative environment.","Python","Storage Area Network","Cisco Router","RAID Administration","Linux System Administration","Storage Array","",""
+"7 hours ago","Multilayer perceptron model","https://www.upwork.com/jobs/Multilayer-perceptron-model_~021917372312835494067/?referrer_url_path=/nx/search/jobs/","Fixed price","Expert","Est. budget:","$50.00","i am looking for machine learning (expert) for building a multilayer perceptron model that can be used for forcasting yield of crop products for a geographical region a year into the future (e.g. given historical data up until or at year 5676, your model can predict the yield of crop products for year 5677).","Python","Machine Learning","Modeling","","","","",""
+"7 hours ago","Backend Developer Needed for Startup Prototype Conversion","https://www.upwork.com/jobs/Backend-Developer-Needed-for-Startup-Prototype-Conversion_~021917415654794938475/?referrer_url_path=/nx/search/jobs/","Fixed price","Intermediate","Est. budget:","$20.00","We are seeking a skilled backend developer to help turn our startup prototype into a functional product. We have already outlined the design and vision but require an expert to implement the backend coding necessary for our application. If you are experienced in building scalable backend systems and can work collaboratively to bring our vision to life, we want to hear from you. Your input will be crucial in ensuring our product meets industry standards and user needs.","Python","JavaScript","Prototyping","Web Development","Web Design","","",""
+"7 hours ago","Programmer for AI-Based Game","https://www.upwork.com/jobs/span-class-highlight-Python-span-Programmer-for-Based-Game_~021917368974126037744/?referrer_url_path=/nx/search/jobs/","Hourly: $20.00 - $40.00","Intermediate","Est. time:","Less than 1 month, Less than 30 hrs/week","I am seeking a  developer to help develop a text-based game that relies on an LLM for natural language analysis and game logic. 
+
+Initially I'm looking for a proof of concept with a minimum viable product  Upon successful completion, I would love to find a partner to further develop the game. 
+
+Proposed deliverables:
+
+-  notebook with API integrations
+- Basic game logic based upon inputs from player and AI 
+- Logical and clear code and notes enabling others to edit AI prompts  and refine game logic. 
+
+Timeline:  2 Weeks 
+
+What I'm looking for: 
+-  expertise
+- AI API integration
+- Interest in Gaming 
+- Excellent American English
+- Curiosity and Open Mind 
+- Excellent communication skills","Python","ChatGPT API","Artificial Intelligence","Game Development","Gemini","Chatbot","","python"
+"7 hours ago","🔧 Build a Hands-Free Stock Scanner Automation + Scoring Dashboard (Thinkorswim +  + Streamlit","https://www.upwork.com/jobs/Build-Hands-Free-Stock-Scanner-Automation-Scoring-Dashboard-Thinkorswim-span-class-highlight-Python-span-Streamlit_~021917410950577389519/?referrer_url_path=/nx/search/jobs/","Fixed price","Intermediate","Est. budget:","$455.00","🧠 What We Need
+We're looking for a reliable  developer to build a fully automated stock filtering assistant that integrates with the Thinkorswim (TOS) platform. The system will launch TOS, export a scanner result, enrich each stock with key technical data (like ATR, SMA alignment, news), score them using a custom 10-rule checklist, and display the top picks inside a clean dashboard.
+
+This is a well-scoped, focused automation project designed to save time during daily trading prep.
+
+🔧 Key Responsibilities
+Automate Thinkorswim: launch app, go to Scanner tab, wait, and export scan results to CSV
+
+Parse and clean CSV data (ticker, volume, net change, ATR, etc.)
+
+Use free APIs like yfinance or finta to:
+
+Confirm ATR above 5
+
+Check SMA 50 100 200 alignment
+
+Analyze support resistance or Fib zone proximity
+
+Identify earnings or headline news using NewsAPI or scraping Yahoo
+
+Apply a 10-rule scoring system (1 point per rule met)
+
+Build a Streamlit dashboard that:
+
+Ranks stocks by score
+
+Offers filtering (min score, volume, ATR)
+
+Includes optional chart preview and tags like “Watch” or “Ignore”
+
+Make the tool runnable locally with one click or via Windows Task Scheduler
+
+💰 Budget
+Fixed price: 455
+
+Bonus: Up to 75 for early, clean, and well-documented work
+
+Expectation: 7 to 10 day turnaround
+
+✅ Ideal Candidate
+ developer with experience in automation (pyautogui, AutoHotKey, or similar)
+
+Strong with APIs and basic financial indicators (ATR, SMA, support resistance)
+
+Comfortable building dashboards (Streamlit, Dash, or Gradio)
+
+Able to work independently and deliver clean, modular code","Python","Automation","API","Streamlit","Data Analysis","","","Python"
+"7 hours ago","Discord Bot Development for Techmeme News Scraping","https://www.upwork.com/jobs/Discord-Bot-Development-for-Techmeme-News-Scraping_~021917409970345647335/?referrer_url_path=/nx/search/jobs/","Fixed price","Intermediate","Est. budget:","$50.00","We are looking for a skilled developer to create a Discord bot that will scrape the latest top news articles from Techmeme and automatically post them in a designated channel. The bot should operate in real-time, ensuring that news articles are shared as soon as they are published. Ideal candidates will have prior experience with Discord bots, web scraping, and API integration. If you are passionate about tech news and have the technical expertise to deliver a high-quality product, we would love to hear from you!","Python","Data Scraping","JavaScript","Bot Development","","","",""
+"7 hours ago","Looking for a GoHighLevel external app automation expert.","https://www.upwork.com/jobs/Looking-for-GoHighLevel-external-app-automation-expert_~021917409647591411882/?referrer_url_path=/nx/search/jobs/","Fixed price","Expert","Est. budget:","$300.00","I am looking for a GHL expert who is also familiar Notion API, and either Make or Zapier, with experience in building automated reports, tracking time-based metrics, and syncing data between CRM and Notion. Feel free to reach out if you're a pro in all 3. 
+
+https://lighthousedynamics.notion.site/Project-Outline-1-1d08169ff0c880c59a05e9c2a098d350","","Make.com","Notion","","","","",""
+"7 hours ago","Automate Jotform Quiz Results + Custom Email Workflow Using Existing HTML Filter Logic","https://www.upwork.com/jobs/Automate-Jotform-Quiz-Results-Custom-Email-Workflow-Using-Existing-HTML-Filter-Logic_~021917362446551481389/?referrer_url_path=/nx/search/jobs/","Hourly: $20.00 - $40.00","Intermediate","Est. time:","1 to 3 months, Less than 30 hrs/week","Description:
+
+Hi! I run a custom spray tanning business and need help automating a currently manual process.
+
+Here’s what’s happening now:
+	•	Clients take a Jotform quiz to analyze their skin tone and preferences.
+	•	A team member manually copies the answers into a custom-coded HTML quiz embedded on our Squarespace site.
+	•	That HTML quiz runs a filter to determine the best tanning mousse blend (based on skin undertones, Fitzpatrick scale, etc.).
+	•	The team then manually copies the quiz result into a Gmail email template and sends it to the client.
+
+What I want:
+
+I need a developer to help me automate this entire workflow:
+	1.	Set up a webhook to receive form data when a Jotform quiz is submitted.
+	2.	Extract and replicate the filtering logic currently used in our HTML (on Squarespace) into backend code (Node.js, , or similar).
+	3.	Automatically generate a personalized result from that logic based on the quiz answers.
+	4.	Inject those results into a pre-designed HTML email template (branded and formatted).
+	5.	Send the email to the client using Gmail (Google API or Apps Script preferred) or a transactional email service like SendGrid or Mailgun.
+
+Ideal Skills:
+	•	JavaScript or  (Node.js preferred)
+	•	Jotform Webhooks / API
+	•	Email templating and delivery (Gmail API, SendGrid, Mailgun, etc.)
+	•	Experience working with low-code sites like Squarespace
+	•	Basic understanding of filtering logic or survey processing
+
+Bonus:
+	•	Ability to build in basic logging or reporting
+	•	Create a branded PDF of the results as an attachment (optional)
+
+I’m looking for someone reliable, collaborative, and experienced with workflow automation. I can provide the HTML filter code, sample Jotform data, and the current Gmail email template.
+
+Please include examples of similar work if you have any. Looking to get started ASAP. Must sign NDA","","API Integration","JavaScript","HTML","Zapier","Automation","WordPress","Python"
+"7 hours ago","GStreamer + RKNN Edge Video Pipeline Expert for Advanced Recording System (Orange Pi + AWS/R2)","https://www.upwork.com/jobs/GStreamer-RKNN-Edge-Video-Pipeline-Expert-for-Advanced-Recording-System-Orange-AWS_~021917406441356656591/?referrer_url_path=/nx/search/jobs/","Hourly: $15.00 - $25.00","Expert","Est. time:","1 to 3 months, Less than 30 hrs/week","We are building a high-performance edge video recording pipeline on the Orange Pi 5 Ultra, capturing and segmenting multi-view RTSP streams (wide + PTZ) for sports analytics. The streams are processed in real time using GStreamer, Rockchip MPP, and RKNN AI acceleration, with output segments pushed to the cloud. We are looking for an expert to own and finalize the entire pipeline setup and stabilization.
+This is a project-based role for a self-driven expert who can confidently take over an already functional but complex GStreamer setup and resolve key performance, reliability, and automation gaps.
+
+✅ Responsibilities:
+	•	Compile, configure, and optimize GStreamer with full Rockchip MPP and hardware acceleration support on Orange Pi
+	•	Setup and validate RKNN Toolkit for AI processing (e.g., ball/player tracking), including model loading and inference
+	•	Configure and maintain multi-pipeline GStreamer RTSP ingestion with splitmuxsink, PIP overlays, and synchronized segmenting
+	•	Optimize performance to ensure stable frame rates, no dropped frames, and minimal resource conflicts (e.g., from PTZ lag)
+	•	Build out file queue management and safe-upload system to AWS S3, ensuring no file loss or duplication
+	•	Implement crash-safe design: auto-resume recording on reboot or failure
+	•	Handle advanced negative scenarios, like stream stalls, encoder hangs, and segment recovery
+	•	Refactor pipeline so SIGINT or manual stop gracefully finalizes incomplete .ts segments without corruption
+	•	Integrate synchronization strategies across cropped quadrant views and the PTZ stream
+	•	(Optional but valued) Help integrate RKNN-based real-time inference into overlay streams
+
+🧠 Ideal Skills:
+	•	Expert-level GStreamer knowledge, especially splitmuxsink, compositor, queue, and encoding/decoding pipelines
+	•	Deep experience compiling and debugging Rockchip MPP, gstreamer-rockchip, and RKNN Toolkit
+	•	Familiarity with RTSP, rtspsrc, and latency management
+	•	Strong Linux embedded system experience, esp. ARM SBCs like Orange Pi / Raspberry Pi
+	•	Practical handling of AWS SDK or AWS CLI for file uploads and state monitoring
+	•	Comfort working with real-time systems, handling synchronization, buffering, and recovery strategies
+	•	Bash scripting, logging, and minimal  if needed for process watchdogs or segment verification
+	•	Bonus: Experience with AI overlays, PIP management, or live compositing with videomixer / compositor
+
+🧩 What We Provide:
+	•	SSH access to a fully setup Orange Pi 5 Ultra on live test streams
+	•	All current scripts, segment directories, and error logs
+	•	Clear documentation of what’s working and what’s not
+	•	Collaborative support as needed (we’re technical, but need a domain expert to lead finalization)
+
+💼 Engagement Scope:
+	•	Short-term contract (est. 2–4 weeks) with well-defined deliverables
+	•	Fully remote, async-friendly
+	•	Possible future work for scaling across multiple venues/devices","","Video Stream","Linux System Administration","FFmpeg","Linux","GStreamer","","Python"
+"8 hours ago","Update AI Voice Agent with Medical API + 3D Avatar Replacement","https://www.upwork.com/jobs/Update-Voice-Agent-with-Medical-API-Avatar-Replacement_~021917401766186169942/?referrer_url_path=/nx/search/jobs/","Fixed price","Intermediate","Est. budget:","$50.00","I have a fully functional AI voice agent that:
+-Converts voice to text
+-Sends the text to OpenAI API
+-Returns and speaks the response as voice
+-Includes lip-syncing with a 3D avatar
+-Works in English and French
+   https://app.digicopy.me/
+Now, I want to update it with the following changes:
+
+* TASKS:
+Language Update:
+Restrict the system to English only
+Medical Agent Integration:
+Pull patient data from a medical API
+Input that data into OpenAI
+The agent should respond based on that patient-specific data
+3D Avatar Replacement:
+Replace the current avatar with a female avatar from a provided video
+
+Deployment:
+Deploy the updated system to the cloud for testing
+💡 REQUIREMENTS:
+Must have prior experience with voice AI agents, OpenAI integration, 3D avatars, and cloud deployment
+You must list 2 relevant past projects
+If you don’t have prior experience, please do not apply
+Must be able to start immediately
+
+⭐ Bonus: 5-star rating for quality delivery
+
+Please start your application with the word ""MEDAGENT"" to confirm you've read the full post.
+Looking forward to working with someone experienced and fast!","Python","3D Modeling","Web Development","API","Artificial Intelligence","","",""
+"8 hours ago","Automate Web Search Info and Data Reporting","https://www.upwork.com/jobs/Automate-Web-Search-Info-and-Data-Reporting_~021917401465125064874/?referrer_url_path=/nx/search/jobs/","Hourly","Expert","Est. time:","Less than 1 month, Less than 30 hrs/week","Automate the process of running a search on a specific website to gather data that changes daily.  Create a script or other automation to report the data results in an Excel sheet and allow me to manually trigger the search to run each day (or less often, as needed).
+
+The goal is to quickly get updates on campsite availability for just a few specific sites at a specific campground.  This might sound silly but I take it very seriously!   The page runs hidden JSON endpoint WebTrac.  There are certain constraints which make it very tedious and nearly impossible to easily search for available dates for specific campsites.
+
+The top two ways I was looking to do this was with either Microsoft Power Automate with Excel export, or browser scraping with a  script via pandas dataframe to excel.  I am not a programmer, but I did my best to scope the project needs via LLM Q&A, which you'll find in the project attachment 
+
+Please feel welcome to reach out with your questions or send your proposal for the job with a different method as you see fit. On a side note there are other things I would like to automate in my life and my work, and preference will go to someone who can possibly teach me to do this using non-programming tools or some very basic Excel/ tools.
+
+Constraints:  
+•	Short-term stays (1-3 nights) are available only within 30 days of arrival
+•	Minimum 4-night stay required for reservations made 30+ days in advance
+•	Using a Windows pc
+•	Maximum stay of 7 nights
+•	constrain the search to specific campsites with the drop-down to select a Site Search (keyword).
+
+Goal: collect data on the availability, for only these specific requested campsites (230, 234, 236, 238, 240, 242, 244, 246, 248, 250, 252, 254, 256, 258, 260, 262, 264, 266, 268, 270) only in Smith Point Park (one of many parks on the drop-down menu)
+
+Results:  Format the collected data in a spreadsheet covering a specific date range (example; 5/1/25 through 12/31/25) showing each single date available and each single date Unavailable, for the specific campsite numbers listed, in Smith Point Park.   
+
+Site: https://nysuffolkctyweb.myvscloud.com/webtrac/web/search.html?Module=RN&Type=FamilySite&webscreendesign=webtrac%20screen%20design&Display=Detail&_csrf_token=nc0R116X09032B2X1X3L2M4D5U5Z4Z570R5J5Q5D4U045O4L5B541A71605B62074X4N6E56735T4N6N570C6W4O5G6I6V705A5566065M4L6K57095R4J6M6E0758604L","Python Script","Microsoft Power Automate","Data Scraping","","","","","Python"
+"8 hours ago","Full Stack Engineers Wanted For Ad Benchmarking Web App Development","https://www.upwork.com/jobs/Full-Stack-Engineers-Wanted-For-Benchmarking-Web-App-Development_~021917399061545603242/?referrer_url_path=/nx/search/jobs/","Fixed price","Intermediate","Est. budget:","$2,500.00","Project Overview:
+
+We are looking for a skilled full-stack developer or development team to build an ad performance benchmarking platform. The application will securely integrate user authentication, ingest and anonymize advertising data from platforms like Meta (initially), and display benchmark analytics and reporting through dynamic, user-friendly UI.
+
+Key Features & User Stories:
+
+- Authentication
+- Create user accounts with email/password and Google OAuth.
+- Securely authenticate Meta accounts via OAuth to access advertising data.
+- Manage locked/unlocked platform features based on authentication status.
+
+Data Ingestion
+
+- Securely collect and anonymize ad account performance data via Meta’s Marketing API.
+- Validate, store, and aggregate anonymized data for benchmarks without exposing identifiable information.
+
+Ad Account Metadata
+
+- Collect user-input metadata to enhance benchmark accuracy (industry, country, campaign objectives).
+
+Categorization
+
+- Dynamic benchmark filtering by industry, sub-vertical, company size, country, campaign objective, and date range.
+- Real-time benchmark updates based on selected filters.
+
+Benchmark Reporting
+
+- Interactive dashboard comparing user metrics (CPM, CTR, CPC) with industry benchmarks.
+- Historical benchmark trend visualization with dynamic line charts.
+- Multi-metric support allowing users to switch comparison metrics seamlessly.
+
+Credits & Subscription Management
+
+- Implement a credit system incentivizing users to contribute anonymized data.
+- Subscription payment integration via Stripe or similar (for users opting out of data sharing).
+
+Onboarding
+
+- Interactive onboarding for new users, guiding platform setup and feature use.
+
+Admin Tools
+
+- Admin notifications for critical system alerts and ingestion errors via email or in-app notifications.
+
+Technical Requirements:
+
+- Backend: Secure API development (Node.js/ preferred), Meta Marketing API integration, OAuth integration, scalable database management (PostgreSQL, MongoDB).
+- Frontend: React/Vue.js preferred, dynamic charting libraries (Chart.js, D3.js).
+- Infrastructure: Secure cloud hosting (AWS/GCP), data encryption, CloudWatch for monitoring.
+
+Security & Privacy: Data anonymization, secure authentication practices, GDPR compliance.
+
+Deliverables:
+
+- Fully functional web platform as per listed features
+- Well-documented codebase and API
+- Deployment to production environment
+
+Timeline & Budget:
+
+- Estimated timeline: 6-8 weeks (negotiable)
+
+Budget: Final budget TBD
+
+Application Instructions:
+
+1. Provide relevant experience, portfolio, and case studies.
+2. Describe your proposed technical stack and architecture approach.
+3. Outline your timeline, milestones and estimated cost for completion.
+
+We look forward to your application and discussing how you can contribute to making this project successful!","Python","Node.js","MongoDB","PostgreSQL","Vue.js","React","Google Cloud Platform","Python"
+"8 hours ago","Prompt Engineer for AI Orchestrator Development","https://www.upwork.com/jobs/Prompt-Engineer-for-Orchestrator-Development_~021917398662487685872/?referrer_url_path=/nx/search/jobs/","Hourly","Intermediate","Est. time:","1 to 3 months, Less than 30 hrs/week","We are seeking a skilled Prompt Engineer to join our team and contribute to the development of an AI orchestrator utilizing technologies such as OpenAI, Claude, Llama, Gemini, Deepseek, and xAI. The ideal candidate will have experience in creating effective prompts to enhance AI performance and user interaction. You will collaborate closely with our engineering team to optimize AI responses and ensure seamless integration across platforms. If you are passionate about AI and have a strong technical background, we encourage you to apply.","Python","Artificial Intelligence","Machine Learning","JavaScript","Artificial Neural Network","","",""
+"8 hours ago","Mobile Web App Development for AR Implant Smile Preview","https://www.upwork.com/jobs/Mobile-Web-App-Development-for-Implant-Smile-Preview_~021917397758631477199/?referrer_url_path=/nx/search/jobs/","Hourly","Intermediate","Est. time:","1 to 3 months, Not sure","Smile Try-On is a mobile-first, browser-based web application that lets prospective dental-implant patients preview a photorealistic new smile in seconds and, in the process, converts them into high-value, HIPAA-secure leads for dentists. After submitting their name, email, and phone number, visitors receive a one-time SMS link that opens an in-browser experience where they can either grant live-camera access or upload a centered selfie. An on-device computer-vision engine maps the user’s lips, gumline, and incisal edges—never altering skin tone or other facial features—and then aligns a full-arch implant overlay rendered with WebGL/Three.js. A smooth before/after slider lets patients compare their current teeth with the simulated result in real time; with one tap the system saves the composite image, emails or texts it back to the user, and posts the lead’s data to the dentist’s CRM via webhook. Behind the scenes, a Node.js (or ) API stores protected health information in an encrypted PostgreSQL database and selfies in an S3-compatible object store, all wrapped in TLS 1.3, AES-256-at-rest encryption, and Business Associate Agreements with every vendor to ensure full HIPAA compliance. A secure admin console allows each practice to upload new smile templates, track funnel metrics, set automatic image-purge rules, and export CSV leads. Deployed with Docker, GitHub Actions, and Terraform on a HIPAA-eligible cloud, the platform can be white-labeled and rolled out to hundreds of practices via a single embeddable script—delivering an emotionally compelling try-before-you-buy experience for patients and a steady stream of ready-to-schedule implant leads for dentists.","","JavaScript","Graphic Design","Web Development","Android","Adobe Photoshop","Next.js","Python"
+"8 hours ago","Build Level 3 AI Agent for Maintenance Company | CRM, Scheduling, and Automation Expert Needed","https://www.upwork.com/jobs/Build-Level-Agent-for-Maintenance-Company-CRM-Scheduling-and-Automation-Expert-Needed_~021917397530450835030/?referrer_url_path=/nx/search/jobs/","Hourly","Expert","Est. time:","1 to 3 months, 30+ hrs/week","Company Overview
+We’re a fast-growing property services business that provides plumbing, electrical, handyman, and turnover solutions to landlords and property managers. We're organized, growth-focused, and ready to implement advanced automation through AI.
+
+Project Overview
+We're looking for an AI automation expert or agency to help architect and deploy a Level 3 intelligent agent to manage and optimize core business operations including scheduling, CRM integration, customer and contractor coordination, and accounts receivable follow-up.
+
+Scope of Work
+You’ll be responsible for designing and implementing an autonomous operations assistant that can:
+
+Coordinate with clients and contractors through integrated messaging platforms
+
+Manage job scheduling and dispatch workflows
+
+Analyze and act on data from platforms like our CRM and financial tools
+
+Trigger automated follow-ups, reminders, and workflow logic based on system events
+
+Act as a smart assistant for our internal team to reference SOPs or escalate exceptions
+
+Monitor accounts receivable and automate collection workflows
+
+Integrate with platforms using webhooks, APIs, or LLM-based reasoning agents
+
+Tools You Should Know
+OpenAI (GPT-4 or newer), LangChain, LLM-based agents
+
+Zapier, Make, or similar automation builders
+
+API integrations with CRMs and job management platforms
+
+Experience integrating third-party communication APIs (no direct names)
+
+Airtable, Notion, or similar for structured internal data
+
+(Bonus) HuggingFace, Pinecone, or vector-based document systems
+
+Ideal Candidate Profile
+You:
+
+Have built AI-powered agents or bots that handle real-world business workflows
+
+Are skilled at API integration, workflow logic, and CRM automation
+
+Understand how to build scalable, reliable automation with human fallback
+
+Communicate clearly and provide proactive updates
+
+Are comfortable working directly with a business owner and thinking strategically","","Customer Relationship Management","","","","","",""
+"8 hours ago","AI Developer – Firestop Construction Takeoff Automation & UL Assembly Matching","https://www.upwork.com/jobs/Developer-Firestop-Construction-Takeoff-Automation-Assembly-Matching_~021917395354263212202/?referrer_url_path=/nx/search/jobs/","Hourly: $40.00 - $75.00","Intermediate","Est. time:","1 to 3 months, Less than 30 hrs/week","Project Overview:
+We are a specialty trade contractor in the construction industry, focused on firestopping for commercial buildings. We’re seeking a developer or small team to build an AI-powered tool that can:
+
+Analyze construction drawings (PDF, CAD, or Revit files)
+
+Detect firestop-related elements (penetrations through rated walls, slab joints, etc.)
+
+Match penetrations and joints to UL-rated firestop assemblies based on material, size, wall type, etc.
+
+Output a report of matched assemblies with quantities and (optionally) cost/labor estimates.
+
+This tool will help automate takeoffs and ensure code-compliant firestopping across large-scale projects.
+
+📌 Key Deliverables:
+AI model (or rules engine) that identifies penetrations and joint locations from architectural and MEP drawings.
+
+Classification engine that matches each object to a UL firestop system based on user-defined rules (pipe size/type, wall rating, annular space, etc.).
+
+User interface or output method: CSV/Excel report with:
+
+Location/Sheet/Detail
+
+Assigned UL system
+
+Penetration type and material
+
+Quantity
+
+Optional: Pricing integration (materials/labor) from predefined templates.
+
+🧠 Ideal Skills:
+Experience in computer vision, object detection, or OCR for construction drawings
+
+Strong in , OpenCV, PyTorch or TensorFlow
+
+Familiarity with PDF/CAD plan parsing (e.g., PDFMiner, AutoCAD APIs, Autodesk Forge)
+
+Understanding of construction documents, especially architectural and MEP plans
+
+Bonus: Experience with UL firestop systems, CSI Division 7, or building code compliance
+
+📁 Input Assets Provided:
+Sample construction drawings (PDF format)
+
+Annotated examples (penetration types and matched UL systems)
+
+Sample firestop material cost/labor database (Excel)
+
+UL system matching logic (rule-based examples)
+
+🧪 Deliverable Phases:
+Phase 1 – Proof of Concept (2–3 weeks):
+
+Detect penetrations and joints on 5–10 sample plans
+
+Apply matching logic to assign UL assemblies
+
+Output Excel/CSV report
+
+Phase 2 – Full Tool Build (4–6 weeks):
+
+Improve recognition accuracy
+
+Expand system to include labor/material integration
+
+Build export and light UI (if needed)
+
+📬 To Apply:
+Please share:
+
+Examples of relevant AI/vision/OCR work
+
+Your experience with construction documents or plan takeoffs
+
+Proposed approach to building this model
+
+Estimated hours or cost to develop a proof of concept","Python","OCR Software","Construction Estimating","","","","","Python"
+"8 hours ago","Custom GPT Chatbot + CRM & API Integration + Backend Data Matching Tool (WordPress Template)","https://www.upwork.com/jobs/Custom-GPT-Chatbot-CRM-API-Integration-Backend-Data-Matching-Tool-WordPress-Template_~021917393975058616490/?referrer_url_path=/nx/search/jobs/","Hourly: $15.00 - $35.00","Intermediate","Est. time:","1 to 3 months, Less than 30 hrs/week","We are seeking a capable developer or team to help us integrate a custom GPT-powered chatbot into a WordPress website template we will provide. The chatbot should guide users through complex inquiry flows and connect with a CRM system, automation tools, and a light backend data utility.
+
+This is not a low-code or plugin-only task—we’re building a secure, modular solution with real business logic.
+
+Project Scope Includes:
+1. Chatbot Development & Integration
+- Deploy a GPT-powered (OpenAI or similar) chatbot within a WordPress template
+- Implement scripted flows to guide users through decision-making processes
+- Create a responsive and branded chat experience
+
+2. CRM Integration (Zoho Bigin)
+- Route chatbot interactions and user inputs to CRM records
+- Auto-tag and organize leads by product/service type
+- Sync with workflow tools like Zapier for routing and reminders
+
+3. Telephony/VoIP Integration
+- Enable CRM or chatbot-triggered communication with a system like Telzio
+- Log interactions and tie records to user/contact profiles
+- Provide user interaction logs and optional call actions
+
+4. External API Integration
+- Set up authenticated API connections to pull reference data (OAuth2 or API Key)
+- Format and insert this data into chatbot responses or forms
+- Manage this securely in a staging environment before deployment
+
+5. Backend File Matching Utility
+- Build a secure internal-facing tool that allows authorized users to:
+  - Upload two spreadsheets or structured data files (e.g., CSV, XLSX)
+  - Cross-compare them using pre-defined matching rules (e.g., date, ID, description)
+  - Identify overlaps or relationships between the two data sets
+  - Export matched data as a downloadable file or view in dashboard
+Ideal Experience:
+- WordPress customization and plugin/API work
+- Familiarity with GPT/OpenAI integrations and prompt handling
+- Zoho Bigin CRM setup and field customization
+- Zapier workflows and automations
+- VoIP platform integrations (e.g., Telzio or Twilio)
+- Backend scripting (Node.js or  preferred) for file processing
+- Security-first development approach for sensitive user/admin data
+Confidentiality Notice:
+This project involves proprietary workflows and sensitive integrations. All candidates will be required to sign a Non-Disclosure Agreement (NDA) before receiving full project materials and credentials.
+Timeline:
+Estimated 6–8 weeks total, with milestone-based collaboration
+To Apply:
+Please share:
+- Relevant chatbot or API-based project examples
+- Your preferred tech stack for backend utilities
+- General timeline and availability
+- Hourly or project-based estimate","Python","API","API Integration","API Development","JSON","Automation","","Python"
+"8 hours ago","Image Downloading Task: Collect 100 Images","https://www.upwork.com/jobs/Image-Downloading-Task-Collect-100-Images_~021917394119074512847/?referrer_url_path=/nx/search/jobs/","Hourly: $3.00 - $4.00","Entry Level","Est. time:","Less than 1 month, Less than 30 hrs/week","We are seeking a detail-oriented freelancer to find and download 100 specific images for our project. The selected candidate will need to ensure that the images are high quality and relevant to our specified criteria. Attention to detail and the ability to work efficiently are crucial for this task. If you are skilled in image searching and downloading, we would love to hear from you!","Python","Data Entry","Accuracy Verification","Data Scraping","Administrative Support","","",""
+"8 hours ago","Embedded Systems Engineer for Motion Simulator (CAN Integration)","https://www.upwork.com/jobs/Embedded-Systems-Engineer-for-Motion-Simulator-CAN-Integration_~021917393923701906663/?referrer_url_path=/nx/search/jobs/","Hourly","Expert","Est. time:","Less than 1 month, Less than 30 hrs/week","We are seeking an embedded systems engineer or software developer with experience in motion simulator integration, specifically working with CAN communication protocols. The ideal candidate should have a strong background in hardware-software communication, real-time motion control, and low-level programming for embedded systems.
+
+Job:
+	•	Develop software to interface with CAN-based motion control system.
+	•	Implement efficient data transmission protocols for real-time motion feedback.
+	•	Troubleshoot and optimize communication between controllers, actuators, and sensors.
+	•	Write well-documented, optimized code for embedded systems and motion hardware.
+	•	(Optional) Assist in developing a basic user interface for monitoring and control (if applicable).
+
+Requirements:
+	•	Proficiency in embedded programming (C, C++, ).
+	•	Strong understanding of CAN protocols, including error handling.
+	•	Experience with motion simulators, robotics, or industrial automation.
+	•	Familiarity with microcontrollers, motor drivers, and real-time systems.
+	•	Ability to debug hardware-software communication issues.
+
+Nice to Have (Optional but Beneficial):
+	•	Experience with motion control software (SimTools, FlyPT, or custom applications).
+	•	Ability to develop a basic UI/dashboard (if a frontend interface is needed).
+
+What We’re NOT Looking For:
+
+This is not a full-stack web development role. We’re focused on hardware integration and motion control software development, not frontend/backend web applications.
+
+Budget:
+
+Open to negotiation based on experience.
+
+If you have relevant experience, please apply with details about your past projects, experience with CAN, and any prior work in motion control systems.","","Embedded System","Motion Controller","Microcontroller","Robotics","CAN Bus","","Python"
+"8 hours ago","Chat GPT Prompt Engineer Needed","https://www.upwork.com/jobs/Chat-GPT-Prompt-Engineer-Needed_~021917393278447910863/?referrer_url_path=/nx/search/jobs/","Hourly: $15.00 - $35.00","Intermediate","Est. time:","1 to 3 months, 30+ hrs/week","We are seeking a skilled Chat GPT Prompt Engineer who has experience in writing custom GPTs and a deep understanding of large language models (LLMs). The ideal candidate will demonstrate expertise in crafting effective prompts and developing rigid guidelines to optimize functionality. If you have a proven track record in utilizing AI for conversational purposes and can deliver innovative solutions, we want to hear from you. Please provide examples of your previous work in this area.","Python","ChatGPT","ChatGPT API Integration","Machine Learning","JavaScript","Java","Node.js",""
+"9 hours ago","Fix .nas Mesh Display Issue in MSC Marc","https://www.upwork.com/jobs/Fix-nas-Mesh-Display-Issue-MSC-Marc_~021917389108906807466/?referrer_url_path=/nx/search/jobs/","Fixed price","Intermediate","Est. budget:","$65.00","We have a .nas format finite element mesh file containing 11 elements.
+
+In MSC Marc's ""Outline"" mode, the 11th element is not displaying correctly. The problematic .nas file includes 30 nodes and 11 elements.
+
+Figure 1: Complete mesh
+
+Figure 2: Missing outline of element 11
+
+I'm looking for a  script to correct the display issue in this .nas file.
+
+Payment: $65","Python","Finite Element Modeling","Finite Element Analysis Software","","","","","Python"
+"9 hours ago","Desarrollo de Chatbot para Respuestas Basadas en Documentos","https://www.upwork.com/jobs/Desarrollo-Chatbot-para-Respuestas-Basadas-Documentos_~021917388561679169269/?referrer_url_path=/nx/search/jobs/","Hourly","Intermediate","Est. time:","1 to 3 months, Less than 30 hrs/week","Busco un desarrollador de chatbot que pueda crear una solución capaz de responder preguntas de los usuarios utilizando información de documentos que proporcionaré. El chatbot debe ser intuitivo y efectivo, asegurando que las respuestas sean precisas y estén basadas en el contenido específico que se le brinde. Se valorará experiencia previa en desarrollo de chatbots y comprensión de procesamiento de lenguaje natural (NLP).","","Chatbot Integration","Castilian Spanish","","","","",""
+"9 hours ago","Full Stack Developer Needed for Next.js & Tailwind CSS Project","https://www.upwork.com/jobs/Full-Stack-Developer-Needed-for-Next-Tailwind-CSS-Project_~021917386585918053607/?referrer_url_path=/nx/search/jobs/","Hourly: $15.00 - $20.00","Intermediate","Est. time:","1 to 3 months, Less than 30 hrs/week","We are seeking a skilled full stack developer with expertise in Next.js, Tailwind CSS, TypeScript, and generative AI. The ideal candidate will be responsible for developing a web application that utilizes these technologies to generate and display images dynamically. You should have a strong understanding of both front-end and back-end development and be able to work independently to deliver high-quality solutions. If you have a passion for innovative tech and a keen eye for detail, we'd love to hear from you!","Python","Next.js","TypeScript","React","Web Development","Node.js","Vue.js",""
+"9 hours ago","Build Serverless Function to Automate Linked Listings & Calendar Lock-Off on Hostaway (Using API)","https://www.upwork.com/jobs/Build-Serverless-Function-Automate-Linked-Listings-Calendar-Lock-Off-Hostaway-Using-API_~021917387936058048463/?referrer_url_path=/nx/search/jobs/","Hourly: $15.00 - $35.00","Intermediate","Est. time:","1 to 3 months, Less than 30 hrs/week","Looking for a developer to build a serverless function (e.g., on Pipedream, AWS Lambda, or similar) that automates the creation of ""linked listings"" in Hostaway. When a new reservation is made on one unit in a group (e.g., entire home vs. split units), the script should block off the calendar of the other linked units to prevent double bookings.
+Must use Hostaway API
+Should support mutual lock-off between 5+ listings in a complex relationship structure
+Function needs to run on new bookings and booking modifications
+Should be deployable on a low-maintenance, serverless platform like Pipedream
+Bonus if it logs or notifies when action is taken
+Please include examples of past API automation work. Experience with Hostaway is a big plus!","Python","API","AWS Lambda","","","","",""
+"9 hours ago","Full Stack Developer with Next.js and Generative AI Expertise","https://www.upwork.com/jobs/Full-Stack-Developer-with-Next-and-Generative-Expertise_~021917386370741869799/?referrer_url_path=/nx/search/jobs/","Hourly: $15.00 - $35.00","Intermediate","Est. time:","1 to 3 months, Less than 30 hrs/week","We are seeking a skilled full stack developer with expertise in Next.js, Tailwind CSS, TypeScript, and Supabase, along with a strong understanding of generative AI technologies. The ideal candidate will be responsible for developing and maintaining our web applications, ensuring a seamless user experience. You will collaborate with our team to implement innovative solutions and enhance the functionality of our platforms. If you are passionate about cutting-edge technology and have a proven track record in full stack development, we would love to hear from you.","Python","Next.js","TypeScript","Node.js","Generative AI","JavaScript","React",""
+"9 hours ago","Web Developer Needed for Real-Time Public Bus Tracking System","https://www.upwork.com/jobs/Web-Developer-Needed-for-Real-Time-Public-Bus-Tracking-System_~021917387451296895146/?referrer_url_path=/nx/search/jobs/","Hourly: $15.00 - $35.00","Intermediate","Est. time:","1 to 3 months, Less than 30 hrs/week","We are seeking a skilled web developer to create an interactive website that enables users to view real-time location updates for public buses and plan their trips efficiently (possibly using GTFS feeds and Geotab GPS located based data). 
+
+The ideal candidate will have experience in integrating mapping services and real-time data feeds to provide users with accurate information and seamless navigation. If you have a strong portfolio showcasing similar projects, we would love to hear from you!
+
+--Important--
+Will be reaching out to candidates between Apr 30th - May 2nd, 2025.","Python","CSS 3","React","Angular","Firebase Realtime Database","JavaScript","Web Development",""
+"9 hours ago","Full-Stack Engineer Needed: React, NodeJS, and  Expertise","https://www.upwork.com/jobs/Full-Stack-Engineer-Needed-React-NodeJS-and-span-class-highlight-Python-span-Expertise_~021917386989890174927/?referrer_url_path=/nx/search/jobs/","Hourly","Intermediate","Est. time:","1 to 3 months, Less than 30 hrs/week","We are seeking a skilled full-stack engineer with strong experience in React, NodeJS, and  to join our dynamic team. The ideal candidate will be responsible for developing and maintaining web applications, ensuring a seamless user experience, and collaborating with our design and product teams. If you are passionate about building scalable solutions and have a knack for problem-solving, we would love to hear from you.","","React","Node.js","JavaScript","API","MongoDB","","Python"
+"9 hours ago","AI Engineer with RAG Experience Needed","https://www.upwork.com/jobs/Engineer-with-RAG-Experience-Needed_~021917386310905928935/?referrer_url_path=/nx/search/jobs/","Hourly","Intermediate","Est. time:","1 to 3 months, Less than 30 hrs/week","We are seeking an experienced AI Engineer with a strong background in Retrieval-Augmented Generation (RAG) to join our team. The ideal candidate will have hands-on experience in developing AI models that utilize external knowledge sources to enhance generative capabilities. You will work on innovative projects that require a blend of data science and machine learning expertise. If you possess a passion for AI and a track record of success in RAG implementations, we want to hear from you!","Python","Artificial Intelligence","Machine Learning","Adobe Illustrator","Data Science","","",""
+"9 hours ago","Integrate 128 slot sim bank with Asterisk to grab call logs","https://www.upwork.com/jobs/Integrate-128-slot-sim-bank-with-Asterisk-grab-call-logs_~021917384952328920295/?referrer_url_path=/nx/search/jobs/","Fixed price","Expert","Est. budget:","$3,000.00","Looking for an expert Asterisk developer to set up a 128 sim bank (probably from Dynstar, but open to suggestions). 128 sims would need to interact with Asterisk to make incoming calls using our voip providers, to the sims. From the sims, we need to sniff the call logs for 'spam' status. We have stir shaken certificate for call signing. We would post in json to the application layer, the API would then initiate the calls to each sim (carrier specific) and return back the call log status (spam likely, potential spam, any cnam, etc)....
+
+If you have an easier way to do this we will take suggestions also","Python","Asterisk","VoIP","VoIP Administration","Telecommunications Engineering","","",""
+"9 hours ago","AI/ML Engineer - Data Science, Data Cleaning, Inference Models, and Business Insights","https://www.upwork.com/jobs/Engineer-Data-Science-Data-Cleaning-Inference-Models-and-Business-Insights_~021917337188962046131/?referrer_url_path=/nx/search/jobs/","Hourly: $15.00 - $30.00","Intermediate","Est. time:","More than 6 months, 30+ hrs/week",":
+Directful Inc. is seeking a skilled AI/ML Engineer with a strong background in Data Science, Data Cleaning, Inference Modeling, and Business Insights. The ideal candidate should be proficient in deploying models such as XGBoost, NLP-based systems, and bot agent frameworks while deriving actionable business metrics from raw datasets.
+
+Responsibilities:
+
+Design, develop, and deploy ML models for inference, prediction, and business intelligence.
+
+Implement data cleaning pipelines to prepare datasets for analysis and training.
+
+Build predictive models using frameworks such as XGBoost, TensorFlow, and PyTorch.
+
+Develop NLP models for text classification, sentiment analysis, and bot automation.
+
+Create dashboards and business reports by extracting meaningful insights from raw data.
+
+Work closely with data engineering and business teams to translate technical work into business value.
+
+Fine-tune model performance using hyperparameter optimization.
+
+Ensure scalability, reliability, and performance of deployed models.
+
+Requirements:
+
+Proven experience in AI/ML model development and data science projects.
+
+Expertise in XGBoost, NLP models, and AI bot frameworks.
+
+Strong experience with  libraries (Scikit-learn, TensorFlow, PyTorch, Hugging Face).
+
+Hands-on experience with big data tools (Spark, Hadoop) and cloud platforms (AWS, Azure, GCP).
+
+Understanding of data cleaning, preprocessing, and ETL pipelines.
+
+Experience in business data analysis and generating actionable insights.
+
+Strong problem-solving skills with a data-driven mindset.
+
+Preferred Skills:
+
+Familiarity with API integration for model deployment.
+
+Knowledge of time-series analysis, anomaly detection, and forecasting.
+
+Experience with ML lifecycle management tools like MLflow, Kubeflow, or SageMaker.","Python","AI Agent Development","AI Bot","Feature Extraction","Unsupervised Learning","Java","Data Science","Python"
+"9 hours ago","Full Stack Developer - AI Agents","https://www.upwork.com/jobs/Full-Stack-Developer-Agents_~021917382144573742311/?referrer_url_path=/nx/search/jobs/","Hourly: $60.00 - $100.00","Intermediate","Est. time:","1 to 3 months, 30+ hrs/week","At nOps, we're building the future of cloud cost optimization through automation, intelligence, and simplicity. We're looking for a Senior Backend Engineer who has hands-on experience building and scaling AI agents in production, especially using LangChain and modern LLM stacks. This role is perfect for someone who thrives at the intersection of infrastructure, automation, and applied AI.","Python","JavaScript","Web Development","API","React","","",""
+"9 hours ago","Web Developer for AI-Powered Voice Food Ordering Application","https://www.upwork.com/jobs/Web-Developer-for-Powered-Voice-Food-Ordering-Application_~021917380090687639722/?referrer_url_path=/nx/search/jobs/","Hourly: $10.00 - $35.00","Intermediate","Est. time:","1 to 3 months, 30+ hrs/week","We are seeking a web developer to create a voice-enabled food ordering application that leverages AI technology. The ideal candidate will have experience in developing voice recognition features. Your work will involve designing a simple proof of concept for conversational experience of food ordering, and implementing AI powered experience to enhance the ordering process. If you have the right credentials then we would love to hear from you!","Python","JavaScript","API","React","Amazon Web Services","","",""
+"9 hours ago","ComfyUI Workflow Development for Before/After Slider Animation","https://www.upwork.com/jobs/ComfyUI-Workflow-Development-for-Before-After-Slider-Animation_~021917379278585509621/?referrer_url_path=/nx/search/jobs/","Hourly: $20.00 - $40.00","Intermediate","Est. time:","1 to 3 months, Less than 30 hrs/week","Looking for a ComfyUI develop to build a workflow. 
+The workflow will be able to produce videos similar to the .mp4 located here - https://drive.google.com/drive/folders/1HHnQ0TPIJTJ3NFfyerf-6xV4J26eDdSn.
+
+Ideally the workflow could do the following:
+- Support multiple image input aspect ratios 
+- Ability to control position of the transparent text layer
+- Vertical and horizontal masking direction animation
+- Input for number of frames
+
+If you believe you are able to deliver, it'd be great to hear from you!","Python","","","","","","",""
+"9 hours ago","ETL / Data Integration Expert – Clean Script Output to Node.js System","https://www.upwork.com/jobs/span-class-highlight-Python-span-ETL-Data-Integration-Expert-Clean-Script-Output-Node-System_~021917377778580764405/?referrer_url_path=/nx/search/jobs/","Fixed price","Expert","Est. budget:","$300.00","We have several working  scraper scripts that collect data from different websites (e.g., car listings).
+Now we need a  ETL expert to:
+	•	Run the existing .py scrapers
+	•	Clean and normalize the output data
+	•	Push the results into our Node.js backend or directly into the database
+	•	Ensure all outputs follow the same structure (JSON or DB-ready)
+	•	Set it up to run automatically (daily or hourly)
+
+You don’t need to build the scrapers — they are already done.
+Just integrate them properly.
+
+Must have:
+	•	Strong experience with  scripting
+	•	Experience with ETL (Extract – Transform – Load)
+	•	Ability to work fast, clean and communicate clearly
+
+Bonus if you:
+	•	Know basic Node.js (not required)
+	•	Can suggest improvements in data format
+
+This is a short job (1–2 weeks max), but we’re looking for clean execution.
+
+
+Price is for few scripts like 5-10 but same category. Dev team of 5 persons. Hiring long term possibilities.","Python","Node.js","","","","","","Python"
+"9 hours ago","Solve simple problem using AI Coding tools","https://www.upwork.com/jobs/Solve-simple-problem-using-Coding-tools_~021917377162803400874/?referrer_url_path=/nx/search/jobs/","Fixed price","Entry Level","Est. budget:","$30.00","Solve a simple problem using 3 different tools that generate code with as little manual effort as possible.  Tools are: chatgpt, claude, gemini. The attachment shows the nature of the program to be solved, but not the exact problem. You need to solve the problem in Java, C, and . 
+
+The idea is to use the tool (say, for sample, chatgpt) with the prompt: Write a  program to solve the following problem: ..... The elipses will be cut-and-paste from the problem definition that I will provide.
+
+You then need to copy the results from the tool into the HackerRank platform (I will give you the appropriate credentials) and run it there to verify the correctness.","Python","Java","C++","","","","","Python"
+"9 hours ago","Build a make.com automation for me","https://www.upwork.com/jobs/Build-make-com-automation-for_~021917376735993378390/?referrer_url_path=/nx/search/jobs/","Fixed price","Intermediate","Est. budget:","$50.00","I need someone who can help me build this automation flow inside of make.com or n8n.com.
+
+Please look at this video and get a clear understanding of what I'm trying to create. 
+
+My goal is a little bit different; I want to make sure I can rewrite scripts referencing a dataset that we've collected and prompt instructions we have created through Custom GPTs. 
+
+Essentially, we're trying to build a front-end wrapper but want to automate the back-end to automate most of the processes that would normally take us too much time to do inside of Chat GPT.","Python","Make.com","n8n","JavaScript","API","","",""
+"9 hours ago","Lean Meme Machine Creation for Crypto Project","https://www.upwork.com/jobs/Lean-Meme-Machine-Creation-for-Crypto-Project_~021917376444355884789/?referrer_url_path=/nx/search/jobs/","Hourly: $12.00 - $35.00","Intermediate","Est. time:","1 to 3 months, Less than 30 hrs/week","We are seeking a creative and experienced freelancer to develop a Lean Mean Meme Machine for our partner crypto project. The ideal candidate will not only create the meme machine but also provide a comprehensive guide on how to replicate the process. This project aims to enhance our community engagement through humor and creativity in the crypto space. (all fun, not about buying the token) If you have a passion for memes and a strong understanding of cryptocurrency culture, we want to hear from you!
+
+- The project is: https://wenlobster.io/  https://x.com/TheLobsterCoin
+- seeking 10 quality static memes
+- seeking 10 quality animated memes
+- what tool to use for finding trends for (general interest, crypto interest, cardano interest, cardano meme coin interest)
+- what tools are used to create the meme (total fine with AI based tools)
+- how to deliver (currently use buffer)
+- all posts to be X specific
+- top competitors are in order
+-- https://www.snek.com/ https://x.com/snek
+-- https://hosky.io/ https://x.com/hoskytoken
+-- https://charlesthechad.com/ https://x.com/charles_thechad
+-- https://nikepig.com/ https://x.com/NikePig_ADA
+-- https://cockcardano.io/ https://x.com/cockcoin_ada
+-- https://fren.rocks/ https://x.com/fren_ada","Python","Content Writing","Graphic Design","Artificial Intelligence","Article Writing","","",""
+"9 hours ago","Online Full-Scope Travel/Social Platform","https://www.upwork.com/jobs/Online-Full-Scope-Travel-Social-Platform_~021917376256995397811/?referrer_url_path=/nx/search/jobs/","Hourly","Expert","Est. time:","3 to 6 months, Hours to be determined","We’re looking for an experienced web development team or full-stack developer to build Phase 1 (MVP) of a responsive travel planning platform called Voyagrr.AI.
+
+We’re taking a backend-first approach, with future mobile app expansion in mind. The system must be scalable and user-friendly on both desktop and mobile browsers.
+
+Please note that there will be multiple phases of this project, this is just phase 1. Upcoming phases are contingent upon the work completed in phase 1.
+
+Core Features (Phase 1)
+- User authentication (login, sign-up)
+- Responsive UI (mobile-optimized web experience)
+- Admin dashboard (non-technical CMS for internal use)
+-***Continued...
+
+Tech Requirements
+- API integration experience (Google Maps, Google Flights, Airbnb, etc.)
+- Modular backend (Node.js, Django, Laravel, or similar)
+- Responsive front-end (React, Vue, or similar)
+- Scrum-based workflow (sprints, standups, demos)
+- Clean documentation + future ownership transfer
+
+Ownership & IP Rights
+- This is a work-for-hire agreement. All code, data, and assets must be transferred and owned by me upon completion.
+
+Next Steps
+Please send over:
+- A brief intro and your dev team (if applicable)
+- Relevant project samples (travel, SaaS, dashboards, etc.)
+- Your initial time estimate and pricing range (bidding is allowed)
+- Answers to the 5 questions above","Python","UX & UI","CMS Made Simple","Web Development","Web Design","HTML","Graphic Design",""
+"9 hours ago","AI assistant","https://www.upwork.com/jobs/assistant_~021917374957073514566/?referrer_url_path=/nx/search/jobs/","Hourly: $70.00 - $75.00","Expert","Est. time:","Less than 1 month, Less than 30 hrs/week","I need a AI assistant that I can call and talk to for multitasking online. This assistant should be accessible through a virtual phone number you create. I need this AI to complete any task I request by me asking.... Fully created by AI generation. All data needed is to be from AI.
+
+Key Requirements:
+- Handle tasks like scheduling, reminders, information retrieval, and general multitasking.
+- Engage in natural conversations with personalized responses and command-based interactions. It should act like a real person.
+- Integrate with all platforms I use, including email services, social media, and CRM systems.
+
+Ideal Skills and Experience:
+- Expertise in AI development
+- Strong background in natural language processing
+- Experience with virtual assistants and task automation
+- Familiarity with various software and platforms for seamless integration
+
+Looking forward to your bids!","Python","Natural Language Processing","OpenAI Embeddings","AI Agent Development","Artificial Intelligence","","",""
+"9 hours ago","Automation System Development for Image and Video Processing","https://www.upwork.com/jobs/Automation-System-Development-for-Image-and-Video-Processing_~021917329397483079714/?referrer_url_path=/nx/search/jobs/","Fixed price","Intermediate","Est. budget:","$400.00","I'm seeking an experienced  developer to create a comprehensive media processing tool for manga, manhwa, and anime content. The tool should be compatible with Windows, MacOS, and Linux, and feature a user-friendly GUI. Key features include:
+
+https://docs.google.com/document/d/15druChFjInLZQHgeVsdGhQ23VV6a2JFDqRB4MwbXwcg/edit?usp=sharing
+
+Anime Video Recap:
+- Generate recaps and timestamped key scenes from anime videos using Google Gemini AI.
+
+Manga/Manhwa Processing:
+- Implement manga panel coloring.
+- Use BubbleBlaster for cleaning and translating manga/manhwa text.
+
+OCR and Translation:
+- Extract text with Magi V2 OCR.
+- Enhance text with Gemini AI.
+- Translate using DeepSeek.
+
+Thumbnail Generator:
+- Create anime-style YouTube thumbnails with customizable text and design elements.
+
+Image Slicing:
+- Enhance automatic slicing of manga panels for efficient processing.
+
+TTS (Text-to-Speech):
+- Implement Coqui TTS for high-quality, multilingual voice generation.
+
+Multi-Processing:
+- Enable processing of multiple tasks simultaneously with API key separation.","Python","JavaScript","C++","PHP","Web Development","Computer Vision","n8n","Python"
+"10 hours ago","AWS Developer (Lambda/ + Vue.js + Cognito)","https://www.upwork.com/jobs/AWS-Developer-Lambda-span-class-highlight-Python-span-Vue-Cognito_~021917373423512624359/?referrer_url_path=/nx/search/jobs/","Hourly","Expert","Est. time:","1 to 3 months, Less than 30 hrs/week","Simple AWS work for a high impact project: improving Alzheimer's and Parkinson's diagnosis!
+
+The work is almost done, but our lead developer had a sudden family emergency. So, hopefully someone here will help us cross the finish line. The code is light, so we don't have tech debt issues. And, the former lead developer is available to guide the incoming developer. 
+
+Ok, so the project: we are using EEG data to estimate clinical endpoints like amyloid burden. You do not need to understand EEG or clinical endpoints. The user logs into our dashboard, uploads EEG, and our existing  algorithms do the work in Lambda functions. Front end is almost finished, login is almost finished, and a single lambda for 1 endpoint is already implemented. We just need someone to complete the work. Ideally, this person can help with improving our security and help us with automated testing/QA, as well. Thanks!","","Vue.js","AWS Lambda","Amazon Cognito","","","","Python"
+"10 hours ago","Flask Developer for Enterprise Web App","https://www.upwork.com/jobs/span-class-highlight-Python-span-Flask-Developer-for-Enterprise-Web-App_~021917371760646983859/?referrer_url_path=/nx/search/jobs/","Hourly: $15.00 - $35.00","Intermediate","Est. time:","More than 6 months, 30+ hrs/week","We are seeking an experienced developer to help build an enterprise-level web application using  Flask. The front end will utilize jQuery and Bootstrap to create a responsive and user-friendly interface. Your role will involve collaborating with our team to implement features, ensure code quality, and troubleshoot any issues. If you have a passion for web development and experience with Flask, we want to hear from you!","Python","Flask","API","PostgreSQL","Prototyping","","","Python"
+"10 hours ago","Spatio-Temporal Simulation Expert for Mangrove Forests","https://www.upwork.com/jobs/Spatio-Temporal-Simulation-Expert-for-Mangrove-Forests_~021917371693183582278/?referrer_url_path=/nx/search/jobs/","Fixed price","Expert","Est. budget:","$500.00","We are seeking a highly skilled Spatio-Temporal Simulation Expert to conduct in-depth analysis of mangrove forest ecosystems. The ideal candidate will develop and implement simulation models that account for both spatial and temporal dynamics within these environments. Your expertise will contribute to our understanding of ecological changes and support conservation efforts. Strong background in ecological modeling and a passion for environmental sustainability are essential. Knowledge of programming languages related to simulation is a plus.","Python","MATLAB","C++","Engineering Simulation","Simulation Game","","",""
