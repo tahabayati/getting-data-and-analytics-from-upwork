@@ -2,7 +2,7 @@
 #از طریق افزونه کروم Instant Data Scraper داده های خود را از سایت upwork استخراج کنید
 # سپس کد را ران کرده و اسمی که برای بالای عکس و نام فولدر و فایل ها میخواهید را وارد کنید
 # خود اسم اسکیلی که سرچ کردین و داخل نتیجه گذاشته نمیشه
-
+# 
 import pandas as pd
 from collections import Counter
 import csv
